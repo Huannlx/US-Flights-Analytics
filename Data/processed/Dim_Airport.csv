@@ -1,0 +1,2469 @@
+Airport_ID,Airport_code,City_Name,State_ABR,State_Name,Country_ABR,Country
+10001,01A,"Afognak Lake, AK",AK,Alaska,US,United States
+10005,05A,"Little Squaw, AK",AK,Alaska,US,United States
+10006,06A,"Kizhuyak, AK",AK,Alaska,US,United States
+10009,09A,"Homer, AK",AK,Alaska,US,United States
+10010,1B1,"Hudson, NY",NY,New York,US,United States
+10011,1G4,"Peach Springs, AZ",AZ,Arizona,US,United States
+10012,1N7,"Blairstown, NJ",NJ,New Jersey,US,United States
+10014,A01,"Fairbanks/Ft. Wainwright, AK",AK,Alaska,US,United States
+10015,A02,"Deadmans Bay, AK",AK,Alaska,US,United States
+10016,A03,"Hallo Bay, AK",AK,Alaska,US,United States
+10017,A04,"Red Lake, AK",AK,Alaska,US,United States
+10019,A06,"Kougarok, AK",AK,Alaska,US,United States
+10022,A09,"Johnstone Point, AK",AK,Alaska,US,United States
+10030,A17,"Port Vita, AK",AK,Alaska,US,United States
+10031,A18,"Kantishna, AK",AK,Alaska,US,United States
+10033,A20,"Alpine, AK",AK,Alaska,US,United States
+10039,A26,"Ivotuk, AK",AK,Alaska,US,United States
+10040,A27,"Pogo Mines, AK",AK,Alaska,US,United States
+10042,A29,"Kiluda Bay, AK",AK,Alaska,US,United States
+10043,A30,"Terror Lake, AK",AK,Alaska,US,United States
+10044,A31,"Selief Bay, AK",AK,Alaska,US,United States
+10047,A34,"Laura Lake, AK",AK,Alaska,US,United States
+10051,A38,"Molly Creek, AK",AK,Alaska,US,United States
+10056,A43,"Kodiak Island, AK",AK,Alaska,US,United States
+10061,A48,"Port Hobron, AK",AK,Alaska,US,United States
+10063,A50,"Big Bay, AK",AK,Alaska,US,United States
+10065,A52,"Silver Salmon Creek, AK",AK,Alaska,US,United States
+10076,A63,"Yukon Charley Rivvers, AK",AK,Alaska,US,United States
+10078,A65,"Karluk Portage, AK",AK,Alaska,US,United States
+10083,A70,"Village Islands, AK",AK,Alaska,US,United States
+10085,A72,"Chinitna Bay, AK",AK,Alaska,US,United States
+10086,A73,"McKinley Park, AK",AK,Alaska,US,United States
+10088,A75,"Malina Bay, AK",AK,Alaska,US,United States
+10089,A76,"Red Fox Bay, AK",AK,Alaska,US,United States
+10092,A79,"Cape Simpson, AK",AK,Alaska,US,United States
+10100,A87,"Carry Inlet, AK",AK,Alaska,US,United States
+10122,AAF,"Apalachicola, FL",FL,Florida,US,United States
+10135,ABE,"Allentown/Bethlehem/Easton, PA",PA,Pennsylvania,US,United States
+10136,ABI,"Abilene, TX",TX,Texas,US,United States
+10139,ABL,"Ambler, AK",AK,Alaska,US,United States
+10140,ABQ,"Albuquerque, NM",NM,New Mexico,US,United States
+10141,ABR,"Aberdeen, SD",SD,South Dakota,US,United States
+10146,ABY,"Albany, GA",GA,Georgia,US,United States
+10147,ABZ,"Aberdeen, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+10148,ACA,"Acapulco, Mexico",Outside of US,Outside of US,MX,Mexico
+10150,ACC,"Accra, Ghana",Outside of US,Outside of US,GH,Ghana
+10154,ACK,"Nantucket, MA",MA,Massachusetts,US,United States
+10155,ACT,"Waco, TX",TX,Texas,US,United States
+10157,ACV,"Arcata/Eureka, CA",CA,California,US,United States
+10158,ACY,"Atlantic City, NJ",NJ,New Jersey,US,United States
+10164,ADJ,"Amman, Jordan",Outside of US,Outside of US,JO,Jordan
+10165,ADK,"Adak Island, AK",AK,Alaska,US,United States
+10166,ADL,"Adelaide, Australia",Outside of US,Outside of US,AU,Australia
+10167,ADM,"Ardmore, OK",OK,Oklahoma,US,United States
+10170,ADQ,"Kodiak, AK",AK,Alaska,US,United States
+10171,ADS,"Dallas, TX",TX,Texas,US,United States
+10172,ADW,"Camp Springs, MD",MD,Maryland,US,United States
+10174,ADZ,"San Andres Island, Colombia",Outside of US,Outside of US,CO,Colombia
+10183,AES,"Aalesund, Norway",Outside of US,Outside of US,NO,Norway
+10184,AET,"Allakaket, AK",AK,Alaska,US,United States
+10185,AEX,"Alexandria, LA",LA,Louisiana,US,United States
+10186,AEY,"Akureyri, Iceland",Outside of US,Outside of US,IS,Iceland
+10191,AFO,"Afton, WY",WY,Wyoming,US,United States
+10194,AFW,"Dallas/Fort Worth, TX",TX,Texas,US,United States
+10198,AGC,"Pittsburgh, PA",PA,Pennsylvania,US,United States
+10204,AGN,"Angoon, AK",AK,Alaska,US,United States
+10205,AGP,"Malaga, Spain",Outside of US,Outside of US,ES,Spain
+10208,AGS,"Augusta, GA",GA,Georgia,US,United States
+10209,AGT,"Ciudad del Este, Paraguay",Outside of US,Outside of US,PY,Paraguay
+10210,AGU,"Aguascalientes, Mexico",Outside of US,Outside of US,MX,Mexico
+10216,AHN,"Athens, GA",GA,Georgia,US,United States
+10221,AIA,"Alliance, NE",NE,Nebraska,US,United States
+10223,AID,"Anderson, IN",IN,Indiana,US,United States
+10224,AIK,"Aiken, SC",SC,South Carolina,US,United States
+10225,AIN,"Wainwright, AK",AK,Alaska,US,United States
+10228,AIZ,"Lake of the Ozarks, MO",MO,Missouri,US,United States
+10237,AKB,"Atka, AK",AK,Alaska,US,United States
+10238,AKC,"Akron, OH",OH,Ohio,US,United States
+10241,AKI,"Akiak, AK",AK,Alaska,US,United States
+10243,AKK,"Akhiok, AK",AK,Alaska,US,United States
+10244,AKL,"Auckland, New Zealand",Outside of US,Outside of US,NZ,New Zealand
+10245,AKN,"King Salmon, AK",AK,Alaska,US,United States
+10247,AKP,"Anaktuvuk Pass, AK",AK,Alaska,US,United States
+10254,AL2,"Alabaster, AL",AL,Alabama,US,United States
+10255,AL3,"Huntsville, AL",AL,Alabama,US,United States
+10257,ALB,"Albany, NY",NY,New York,US,United States
+10259,ALE,"Alpine, TX",TX,Texas,US,United States
+10266,ALM,"Alamogordo, NM",NM,New Mexico,US,United States
+10267,ALN,"Alton, IL",IL,Illinois,US,United States
+10268,ALO,"Waterloo, IA",IA,Iowa,US,United States
+10272,ALS,"Alamosa, CO",CO,Colorado,US,United States
+10275,ALW,"Walla Walla, WA",WA,Washington,US,United States
+10276,ALX,"Alexander City, AL",AL,Alabama,US,United States
+10278,ALZ,"Lazy Bay, AK",AK,Alaska,US,United States
+10279,AMA,"Amarillo, TX",TX,Texas,US,United States
+10287,AMM,"Amman, Jordan",Outside of US,Outside of US,JO,Jordan
+10292,AMS,"Amsterdam, Netherlands",Outside of US,Outside of US,NL,Netherlands
+10294,AMW,"Ames, IA",IA,Iowa,US,United States
+10298,ANB,"Anniston, AL",AL,Alabama,US,United States
+10299,ANC,"Anchorage, AK",AK,Alaska,US,United States
+10300,AND,"Anderson, SC",SC,South Carolina,US,United States
+10304,ANI,"Aniak, AK",AK,Alaska,US,United States
+10309,ANP,"Annapolis, MD",MD,Maryland,US,United States
+10312,ANU,"St. Johns, Antigua and Barbuda",Outside of US,Outside of US,AG,Antigua and Barbuda
+10313,ANV,"Anvik, AK",AK,Alaska,US,United States
+10314,ANX,"Andeness, Norway",Outside of US,Outside of US,NO,Norway
+10317,AOH,"Lima, OH",OH,Ohio,US,United States
+10322,AOO,"Altoona, PA",PA,Pennsylvania,US,United States
+10324,AOS,"Amook Bay, AK",AK,Alaska,US,United States
+10325,APA,"Denver, CO",CO,Colorado,US,United States
+10327,APC,"Napa, CA",CA,California,US,United States
+10329,APF,"Naples, FL",FL,Florida,US,United States
+10333,APN,"Alpena, MI",MI,Michigan,US,United States
+10337,APV,"Apple Valley, CA",CA,California,US,United States
+10338,APW,"Apia, Samoa",Outside of US,Outside of US,WS,Samoa
+10340,AQJ,"Aqaba, Jordan",Outside of US,Outside of US,JO,Jordan
+10344,AQY,"Girdwood, AK",AK,Alaska,US,United States
+10347,ARA,"New Iberia, LA",LA,Louisiana,US,United States
+10348,ARB,"Ann Arbor, MI",MI,Michigan,US,United States
+10349,ARC,"Arctic Village, AK",AK,Alaska,US,United States
+10352,ARG,"Walnut Ridge, AR",AR,Arkansas,US,United States
+10357,ARN,"Stockholm, Sweden",Outside of US,Outside of US,SE,Sweden
+10361,ART,"Watertown, NY",NY,New York,US,United States
+10363,ARV,"Minocqua/Woodruff, WI",WI,Wisconsin,US,United States
+10371,ASD,"Andros Town, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+10372,ASE,"Aspen, CO",CO,Colorado,US,United States
+10374,ASH,"Nashua, NH",NH,New Hampshire,US,United States
+10380,ASN,"Talladega, AL",AL,Alabama,US,United States
+10385,AST,"Astoria/Seaside, OR",OR,Oregon,US,United States
+10386,ASU,"Asuncion, Paraguay",Outside of US,Outside of US,PY,Paraguay
+10388,ASX,"Ashland, WI",WI,Wisconsin,US,United States
+10394,ATH,"Athens, Greece",Outside of US,Outside of US,GR,Greece
+10396,ATK,"Atqasuk, AK",AK,Alaska,US,United States
+10397,ATL,"Atlanta, GA",GA,Georgia,US,United States
+10400,ATO,"Athens, OH",OH,Ohio,US,United States
+10404,ATS,"Artesia, NM",NM,New Mexico,US,United States
+10405,ATT,"Atmautluak, AK",AK,Alaska,US,United States
+10408,ATW,"Appleton, WI",WI,Wisconsin,US,United States
+10409,ATY,"Watertown, SD",SD,South Dakota,US,United States
+10411,AUA,"Aruba, Aruba",Outside of US,Outside of US,AW,Aruba
+10414,AUG,"Augusta/Waterville, ME",ME,Maine,US,United States
+10416,AUK,"Alakanuk, AK",AK,Alaska,US,United States
+10418,AUN,"Auburn, CA",CA,California,US,United States
+10419,AUO,"Auburn, AL",AL,Alabama,US,United States
+10423,AUS,"Austin, TX",TX,Texas,US,United States
+10427,AUZ,"Aurora, IL",IL,Illinois,US,United States
+10428,AVB,"Aviano, Italy",Outside of US,Outside of US,IT,Italy
+10431,AVL,"Asheville, NC",NC,North Carolina,US,United States
+10432,AVN,"Avignon, France",Outside of US,Outside of US,FR,France
+10434,AVP,"Scranton/Wilkes-Barre, PA",PA,Pennsylvania,US,United States
+10435,AVV,"Avalon, Australia",Outside of US,Outside of US,AU,Australia
+10436,AVW,"Tucson, AZ",AZ,Arizona,US,United States
+10439,AWK,"Wake Island, TT",TT,U.S. Pacific Trust Territories and Possessions,US,United States
+10440,AWM,"West Memphis, AR",AR,Arkansas,US,United States
+10444,AXA,"The Valley, Anguilla",Outside of US,Outside of US,AI,Anguilla
+10448,AXM,"Armenia, Colombia",Outside of US,Outside of US,CO,Colombia
+10455,AXX,"Eagle Nest, NM",NM,New Mexico,US,United States
+10465,AZ3,"Glendale, AZ",AZ,Arizona,US,United States
+10466,AZA,"Phoenix, AZ",AZ,Arizona,US,United States
+10469,AZO,"Kalamazoo, MI",MI,Michigan,US,United States
+10470,AZS,"Samana, Dominican Republic",Outside of US,Outside of US,DO,Dominican Republic
+10471,B19,"Biddeford, ME",ME,Maine,US,United States
+10472,B21,"Carrabassett, ME",ME,Maine,US,United States
+10476,BAD,"Shreveport, LA",LA,Louisiana,US,United States
+10478,BAF,"Westfield, MA",MA,Massachusetts,US,United States
+10480,BAH,"Manama, Bahrain",Outside of US,Outside of US,BH,Bahrain
+10484,BAM,"Battle Mountain, NV",NV,Nevada,US,United States
+10486,BAQ,"Barranquilla, Colombia",Outside of US,Outside of US,CO,Colombia
+10494,BBC,"Bay City, TX",TX,Texas,US,United States
+10503,BBU,"Bucharest, Romania",Outside of US,Outside of US,RO,Romania
+10504,BBX,"Blue Bell, PA",PA,Pennsylvania,US,United States
+10508,BCB,"Blacksburg, VA",VA,Virginia,US,United States
+10511,BCE,"Bryce Canyon, UT",UT,Utah,US,United States
+10517,BCN,"Barcelona, Spain",Outside of US,Outside of US,ES,Spain
+10519,BCT,"Boca Raton, FL",FL,Florida,US,United States
+10521,BDA,"Hamilton, Bermuda",Outside of US,Outside of US,BM,Bermuda
+10529,BDL,"Hartford, CT",CT,Connecticut,US,United States
+10535,BDR,"Bridgeport, CT",CT,Connecticut,US,United States
+10536,BDS,"Brindisi, Italy",Outside of US,Outside of US,IT,Italy
+10538,BDY,"Bandon, OR",OR,Oregon,US,United States
+10540,BED,"Bedford, MA",MA,Massachusetts,US,United States
+10543,BEH,"Benton Harbor/St. Joseph, MI",MI,Michigan,US,United States
+10545,BEL,"Belem, Brazil",Outside of US,Outside of US,BR,Brazil
+10551,BET,"Bethel, AK",AK,Alaska,US,United States
+10556,BFB,"Blue Fox Bay, AK",AK,Alaska,US,United States
+10557,BFD,"Bradford, PA",PA,Pennsylvania,US,United States
+10558,BFF,"Scottsbluff, NE",NE,Nebraska,US,United States
+10559,BFI,"Seattle, WA",WA,Washington,US,United States
+10560,BFK,"Aurora, CO",CO,Colorado,US,United States
+10561,BFL,"Bakersfield, CA",CA,California,US,United States
+10562,BFM,"Mobile, AL",AL,Alabama,US,United States
+10568,BFS,"Belfast, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+10569,BFT,"Beaufort, SC",SC,South Carolina,US,United States
+10570,BGA,"Bucaramanga, Colombia",Outside of US,Outside of US,CO,Colombia
+10572,BGD,"Borger, TX",TX,Texas,US,United States
+10573,BGE,"Bainbridge, GA",GA,Georgia,US,United States
+10575,BGI,"Barbados/Bridgetown, Barbados",Outside of US,Outside of US,BB,Barbados
+10577,BGM,"Binghamton, NY",NY,New York,US,United States
+10579,BGO,"Bergen, Norway",Outside of US,Outside of US,NO,Norway
+10581,BGR,"Bangor, ME",ME,Maine,US,United States
+10582,BGS,"Big Spring, TX",TX,Texas,US,United States
+10583,BGT,"Bagdad, AZ",AZ,Arizona,US,United States
+10589,BHB,"Bar Harbor, ME",ME,Maine,US,United States
+10590,IFP,"Bullhead City, AZ",AZ,Arizona,US,United States
+10599,BHM,"Birmingham, AL",AL,Alabama,US,United States
+10608,BHX,"Birmingham, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+10613,BID,"Block Island, RI",RI,Rhode Island,US,United States
+10615,BIF,"El Paso, TX",TX,Texas,US,United States
+10616,BIG,"Big Delta, AK",AK,Alaska,US,United States
+10617,BIH,"Bishop, CA",CA,California,US,United States
+10620,BIL,"Billings, MT",MT,Montana,US,United States
+10621,BIM,"Bimini, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+10623,BIO,"Bilbao, Spain",Outside of US,Outside of US,ES,Spain
+10627,BIS,"Bismarck/Mandan, ND",ND,North Dakota,US,United States
+10629,BIX,"Biloxi, MS",MS,Mississippi,US,United States
+10630,BJC,"Broomfield, CO",CO,Colorado,US,United States
+10631,BJI,"Bemidji, MN",MN,Minnesota,US,United States
+10638,BJX,"Leon/Guanajuato, Mexico",Outside of US,Outside of US,MX,Mexico
+10640,BKC,"Buckland, AK",AK,Alaska,US,United States
+10641,BKE,"Baker, OR",OR,Oregon,US,United States
+10643,BKG,"Branson, MO",MO,Missouri,US,United States
+10647,BKL,"Cleveland, OH",OH,Ohio,US,United States
+10654,BKW,"Beckley, WV",WV,West Virginia,US,United States
+10655,BKX,"Brookings, SD",SD,South Dakota,US,United States
+10661,BLD,"Boulder City, NV",NV,Nevada,US,United States
+10666,BLI,"Bellingham, WA",WA,Washington,US,United States
+10669,BLL,"Billund, Denmark",Outside of US,Outside of US,DK,Denmark
+10670,BLM,"Belmar/Farmingdale, NJ",NJ,New Jersey,US,United States
+10673,BLQ,"Bologna, Italy",Outside of US,Outside of US,IT,Italy
+10676,BLV,"Belleville, IL",IL,Illinois,US,United States
+10680,BMC,"Brigham City, UT",UT,Utah,US,United States
+10683,BMG,"Bloomington, IN",IN,Indiana,US,United States
+10685,BMI,"Bloomington/Normal, IL",IL,Illinois,US,United States
+10687,BML,"Berlin, NH",NH,New Hampshire,US,United States
+10693,BNA,"Nashville, TN",TN,Tennessee,US,United States
+10696,BNE,"Brisbane, Australia",Outside of US,Outside of US,AU,Australia
+10697,BNF,"Baranof, AK",AK,Alaska,US,United States
+10709,BOC,"Bocas del Toro, Panama",Outside of US,Outside of US,PA,Panama
+10711,BOG,"Bogota, Colombia",Outside of US,Outside of US,CO,Colombia
+10712,BOH,"Bournemouth, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+10713,BOI,"Boise, ID",ID,Idaho,US,United States
+10715,BOK,"Brookings, OR",OR,Oregon,US,United States
+10716,BOM,"Mumbai, India",Outside of US,Outside of US,IN,India
+10717,BON,"Bonaire, Bonaire, Sint Eustatius, and Saba",Outside of US,Outside of US,BQ,"Bonaire, Sint Eustatius, and Saba"
+10721,BOS,"Boston, MA",MA,Massachusetts,US,United States
+10722,BOW,"Bartow, FL",FL,Florida,US,United States
+10728,BPT,"Beaumont/Port Arthur, TX",TX,Texas,US,United States
+10730,BQH,"London, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+10731,BQK,"Brunswick, GA",GA,Georgia,US,United States
+10732,BQN,"Aguadilla, PR",PR,Puerto Rico,US,United States
+10734,BQU,"Bequia, Saint Vincent and the Grenadines",Outside of US,Outside of US,VC,Saint Vincent and the Grenadines
+10739,BRD,"Brainerd, MN",MN,Minnesota,US,United States
+10741,BRG,"Whitesburg, KY",KY,Kentucky,US,United States
+10744,BRL,"Burlington, IA",IA,Iowa,US,United States
+10747,BRO,"Brownsville, TX",TX,Texas,US,United States
+10750,BRS,"Bristol, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+10752,BRU,"Brussels, Belgium",Outside of US,Outside of US,BE,Belgium
+10754,BRW,"Barrow, AK",AK,Alaska,US,United States
+10756,BRY,"Bardstown, KY",KY,Kentucky,US,United States
+10758,BSB,"Brasilia, Brazil",Outside of US,Outside of US,BR,Brazil
+10765,BSQ,"Bisbee, AZ",AZ,Arizona,US,United States
+10775,BTI,"Barter Island, AK",AK,Alaska,US,United States
+10778,BTL,"Battle Creek, MI",MI,Michigan,US,United States
+10779,BTM,"Butte, MT",MT,Montana,US,United States
+10780,BTP,"Butler, PA",PA,Pennsylvania,US,United States
+10781,BTR,"Baton Rouge, LA",LA,Louisiana,US,United States
+10782,BTS,"Bratislava, Slovakia",Outside of US,Outside of US,SK,Slovakia
+10783,BTT,"Bettles, AK",AK,Alaska,US,United States
+10785,BTV,"Burlington, VT",VT,Vermont,US,United States
+10790,BUD,"Budapest, Hungary",Outside of US,Outside of US,HU,Hungary
+10792,BUF,"Buffalo, NY",NY,New York,US,United States
+10800,BUR,"Burbank, CA",CA,California,US,United States
+10811,BVO,"Bartlesville, OK",OK,Oklahoma,US,United States
+10815,BVY,"Beverly, MA",MA,Massachusetts,US,United States
+10817,BWD,"Brownwood, TX",TX,Texas,US,United States
+10819,BWG,"Bowling Green, KY",KY,Kentucky,US,United States
+10821,BWI,"Baltimore, MD",MD,Maryland,US,United States
+10836,RKH,"Rock Hill, SC",SC,South Carolina,US,United States
+10838,BYH,"Blytheville, AR",AR,Arkansas,US,United States
+10844,BYW,"Blakely Island, WA",WA,Washington,US,United States
+10846,BZE,"Belize City, Belize",Outside of US,Outside of US,BZ,Belize
+10849,BZN,"Bozeman, MT",MT,Montana,US,United States
+10856,BZZ,"Brize Norton, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+10857,C01,"Camarillo, CA",CA,California,US,United States
+10867,CAD,"Cadillac, MI",MI,Michigan,US,United States
+10868,CAE,"Columbia, SC",SC,South Carolina,US,United States
+10872,CAI,"Cairo, Egypt",Outside of US,Outside of US,EG,Egypt
+10874,CAK,"Akron, OH",OH,Ohio,US,United States
+10877,CAN,"Guangzhou, China",Outside of US,Outside of US,CN,China
+10878,CAP,"Cap-Haitien, Haiti",Outside of US,Outside of US,HT,Haiti
+10879,CAR,"Caribou, ME",ME,Maine,US,United States
+10881,CAT,"New Bight, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+10884,CAY,"Cayenne, French Guiana",Outside of US,Outside of US,GF,French Guiana
+10886,CBA,"Corner Bay, AK",AK,Alaska,US,United States
+10892,CBK,"Colby, KS",KS,Kansas,US,United States
+10894,CBM,"Columbus, MS",MS,Mississippi,US,United States
+10910,CCR,"Concord, CA",CA,California,US,United States
+10911,CCS,"Caracas, Venezuela",Outside of US,Outside of US,VE,Venezuela
+10916,CCZ,"Chub Cay, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+10917,CDB,"Cold Bay, AK",AK,Alaska,US,United States
+10918,CDC,"Cedar City, UT",UT,Utah,US,United States
+10920,CDG,"Paris, France",Outside of US,Outside of US,FR,France
+10921,CDH,"Camden, AR",AR,Arkansas,US,United States
+10923,CDL,"Candle, AK",AK,Alaska,US,United States
+10924,CDN,"Camden, SC",SC,South Carolina,US,United States
+10925,CDR,"Chadron, NE",NE,Nebraska,US,United States
+10926,CDV,"Cordova, AK",AK,Alaska,US,United States
+10927,CDW,"Caldwell, NJ",NJ,New Jersey,US,United States
+10930,CEC,"Crescent City, CA",CA,California,US,United States
+10933,CEF,"Chicopee Falls, MA",MA,Massachusetts,US,United States
+10938,CEM,"Central, AK",AK,Alaska,US,United States
+10939,CEN,"Ciudad Obregon, Mexico",Outside of US,Outside of US,MX,Mexico
+10945,CEU,"Clemson, SC",SC,South Carolina,US,United States
+10947,CEW,"Crestview, FL",FL,Florida,US,United States
+10948,CEX,"Chena Hot Springs, AK",AK,Alaska,US,United States
+10949,CEY,"Murray, KY",KY,Kentucky,US,United States
+10950,CEZ,"Cortez, CO",CO,Colorado,US,United States
+10958,CFT,"Clifton, AZ",AZ,Arizona,US,United States
+10960,CFV,"Coffeyville, KS",KS,Kansas,US,United States
+10961,CGA,"Craig, AK",AK,Alaska,US,United States
+10964,CGE,"Cambridge, MD",MD,Maryland,US,United States
+10965,CGF,"Cleveland, OH",OH,Ohio,US,United States
+10967,CGI,"Cape Girardeau, MO",MO,Missouri,US,United States
+10968,CGK,"Jakarta, Indonesia",Outside of US,Outside of US,ID,Indonesia
+10970,CGN,"Cologne, Germany",Outside of US,Outside of US,DE,Germany
+10971,CGO,"Zhengzhou, China",Outside of US,Outside of US,CN,China
+10974,CGR,"Campo Grande, Brazil",Outside of US,Outside of US,BR,Brazil
+10975,CGS,"College Park, MD",MD,Maryland,US,United States
+10979,CGZ,"Casa Grande, AZ",AZ,Arizona,US,United States
+10980,CHA,"Chattanooga, TN",TN,Tennessee,US,United States
+10981,CHC,"Christchurch, New Zealand",Outside of US,Outside of US,NZ,New Zealand
+10982,CHD,"Chandler, AZ",AZ,Arizona,US,United States
+10990,CHO,"Charlottesville, VA",VA,Virginia,US,United States
+10991,CHP,"Circle Hot Springs, AK",AK,Alaska,US,United States
+10992,CHQ,"Chania, Greece",Outside of US,Outside of US,GR,Greece
+10994,CHS,"Charleston, SC",SC,South Carolina,US,United States
+10996,CHU,"Chuathbaluk, AK",AK,Alaska,US,United States
+11000,CIA,"Rome, Italy",Outside of US,Outside of US,IT,Italy
+11001,CIB,"Avalon, CA",CA,California,US,United States
+11002,CIC,"Chico, CA",CA,California,US,United States
+11003,CID,"Cedar Rapids/Iowa City, IA",IA,Iowa,US,United States
+11007,CIK,"Chalkyitsik, AK",AK,Alaska,US,United States
+11008,CIL,"Council, AK",AK,Alaska,US,United States
+11013,CIU,"Sault Ste. Marie, MI",MI,Michigan,US,United States
+11015,CIW,"Canouan, Saint Vincent and the Grenadines",Outside of US,Outside of US,VC,Saint Vincent and the Grenadines
+11024,CJS,"Ciudad Juarez, Mexico",Outside of US,Outside of US,MX,Mexico
+11027,CKB,"Clarksburg/Fairmont, WV",WV,West Virginia,US,United States
+11028,CKD,"Crooked Creek, AK",AK,Alaska,US,United States
+11030,CKG,"Chongqing, China",Outside of US,Outside of US,CN,China
+11031,CKM,"Clarksdale, MS",MS,Mississippi,US,United States
+11032,CUN,"Cancun, Mexico",Outside of US,Outside of US,MX,Mexico
+11034,CKU,"Cordova, AK",AK,Alaska,US,United States
+11035,CKV,"Clarksville, TN",TN,Tennessee,US,United States
+11036,CKX,"Chicken, AK",AK,Alaska,US,United States
+11041,CLD,"Carlsbad, CA",CA,California,US,United States
+11042,CLE,"Cleveland, OH",OH,Ohio,US,United States
+11049,CLL,"College Station/Bryan, TX",TX,Texas,US,United States
+11050,CLM,"Port Angeles, WA",WA,Washington,US,United States
+11052,CLO,"Cali, Colombia",Outside of US,Outside of US,CO,Colombia
+11053,CLP,"Clarks Point, AK",AK,Alaska,US,United States
+11057,CLT,"Charlotte, NC",NC,North Carolina,US,United States
+11058,CLU,"Columbus, IN",IN,Indiana,US,United States
+11066,CMH,"Columbus, OH",OH,Ohio,US,United States
+11067,CMI,"Champaign/Urbana, IL",IL,Illinois,US,United States
+11070,CMN,"Casablanca, Morocco",Outside of US,Outside of US,MA,Morocco
+11075,CMW,"Camaguey, Cuba",Outside of US,Outside of US,CU,Cuba
+11076,CMX,"Hancock/Houghton, MI",MI,Michigan,US,United States
+11080,CND,"Constanta, Romania",Outside of US,Outside of US,RO,Romania
+11082,CNF,"Belo Horizonte, Brazil",Outside of US,Outside of US,BR,Brazil
+11085,CNM,"Carlsbad, NM",NM,New Mexico,US,United States
+11086,CNO,"Chino, CA",CA,California,US,United States
+11090,CNW,"Waco, TX",TX,Texas,US,United States
+11092,CNY,"Moab, UT",UT,Utah,US,United States
+11097,COD,"Cody, WY",WY,Wyoming,US,United States
+11098,COE,"Coeur d'Alene, ID",ID,Idaho,US,United States
+11105,COM,"Coleman, TX",TX,Texas,US,United States
+11106,CON,"Concord, NH",NH,New Hampshire,US,United States
+11108,COR,"Cordoba, Argentina",Outside of US,Outside of US,AR,Argentina
+11109,COS,"Colorado Springs, CO",CO,Colorado,US,United States
+11111,COU,"Columbia, MO",MO,Missouri,US,United States
+11118,CPH,"Copenhagen, Denmark",Outside of US,Outside of US,DK,Denmark
+11122,CPR,"Casper, WY",WY,Wyoming,US,United States
+11123,CPS,"St. Louis, MO",MO,Missouri,US,United States
+11124,CPT,"Cape Town, South Africa",Outside of US,Outside of US,ZA,South Africa
+11126,CPX,"Culebra, PR",PR,Puerto Rico,US,United States
+11135,CRE,"Myrtle Beach, SC",SC,South Carolina,US,United States
+11136,CRG,"Jacksonville, FL",FL,Florida,US,United States
+11138,CRK,"Luzon Island, Philippines",Outside of US,Outside of US,PH,Philippines
+11140,CRP,"Corpus Christi, TX",TX,Texas,US,United States
+11143,CRS,"Corsicana, TX",TX,Texas,US,United States
+11146,CRW,"Charleston/Dunbar, WV",WV,West Virginia,US,United States
+11147,CRX,"Corinth, MS",MS,Mississippi,US,United States
+11150,CSG,"Columbus, GA",GA,Georgia,US,United States
+11153,CSN,"Carson City, NV",NV,Nevada,US,United States
+11159,CSV,"Crossville, TN",TN,Tennessee,US,United States
+11160,CSX,"Changsha, China",Outside of US,Outside of US,CN,China
+11161,CTA,"Catania, Italy",Outside of US,Outside of US,IT,Italy
+11164,CTG,"Cartagena, Colombia",Outside of US,Outside of US,CO,Colombia
+11165,CTH,"Coatesville, PA",PA,Pennsylvania,US,United States
+11167,CTM,"Chetumal, Mexico",Outside of US,Outside of US,MX,Mexico
+11170,CTS,"Sapporo, Japan",Outside of US,Outside of US,JP,Japan
+11172,CTU,"Chengdu, China",Outside of US,Outside of US,CN,China
+11179,CUF,"Cuneo, Italy",Outside of US,Outside of US,IT,Italy
+11180,CUL,"Culiacan, Mexico",Outside of US,Outside of US,MX,Mexico
+11185,CUR,"Willemstad, Curacao",Outside of US,Outside of US,CW,Curacao
+11187,CUU,"Chihuahua, Mexico",Outside of US,Outside of US,MX,Mexico
+11193,CVG,"Cincinnati, OH",KY,Kentucky,US,United States
+11197,CVN,"Clovis, NM",NM,New Mexico,US,United States
+11198,CVO,"Corvallis, OR",OR,Oregon,US,United States
+11200,CVS,"Clovis, NM",NM,New Mexico,US,United States
+11202,CVX,"Charlevoix, MI",MI,Michigan,US,United States
+11203,CWA,"Mosinee, WI",WI,Wisconsin,US,United States
+11208,CWL,"Cardiff, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+11209,CWS,"Center Island, WA",WA,Washington,US,United States
+11214,CXF,"Coldfoot, AK",AK,Alaska,US,United States
+11215,CXH,"Vancouver, Canada",BC,British Columbia,CA,Canada
+11216,CXI,"Christmas Island, Kiribati",Outside of US,Outside of US,KI,Kiribati
+11218,CXL,"Calexico, CA",CA,California,US,United States
+11219,CXO,"Conroe, TX",TX,Texas,US,United States
+11223,CXY,"Cat Cay, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+11225,CYB,"Cayman Brac, Cayman Islands",Outside of US,Outside of US,KY,Cayman Islands
+11227,CYF,"Chefornak, AK",AK,Alaska,US,United States
+11233,CYS,"Cheyenne, WY",WY,Wyoming,US,United States
+11234,CYT,"Cape Yakataga, AK",AK,Alaska,US,United States
+11238,CZC,"Copper Center, AK",AK,Alaska,US,United States
+11241,CZF,"Cape Romanzof, AK",AK,Alaska,US,United States
+11244,CZM,"Cozumel, Mexico",Outside of US,Outside of US,MX,Mexico
+11245,CZN,"Chisana, AK",AK,Alaska,US,United States
+11252,DAB,"Daytona Beach, FL",FL,Florida,US,United States
+11257,DAG,"Daggett, CA",CA,California,US,United States
+11259,DAL,"Dallas, TX",TX,Texas,US,United States
+11261,DAN,"Danville, VA",VA,Virginia,US,United States
+11265,DAV,"David, Panama",Outside of US,Outside of US,PA,Panama
+11267,DAY,"Dayton, OH",OH,Ohio,US,United States
+11274,DBQ,"Dubuque, IA",IA,Iowa,US,United States
+11276,DBV,"Dubrovnik, Croatia",Outside of US,Outside of US,HR,Croatia
+11278,DCA,"Washington, DC",VA,Virginia,US,United States
+11280,DCK,"Dahl Creek, AK",AK,Alaska,US,United States
+11282,DCU,"Decatur, AL",AL,Alabama,US,United States
+11283,DDC,"Dodge City, KS",KS,Kansas,US,United States
+11288,DEC,"Decatur, IL",IL,Illinois,US,United States
+11290,DEL,"Delhi, India",Outside of US,Outside of US,IN,India
+11292,DEN,"Denver, CO",CO,Colorado,US,United States
+11295,DET,"Detroit, MI",MI,Michigan,US,United States
+11298,DFW,"Dallas/Fort Worth, TX",TX,Texas,US,United States
+11299,DGB,"Danger Bay, AK",AK,Alaska,US,United States
+11301,DGO,"Durango, Mexico",Outside of US,Outside of US,MX,Mexico
+11303,DGW,"Douglas, WY",WY,Wyoming,US,United States
+11304,DHA,"Dhahran, Saudi Arabia",Outside of US,Outside of US,SA,Saudi Arabia
+11308,DHN,"Dothan, AL",AL,Alabama,US,United States
+11309,DHT,"Dalhart, TX",TX,Texas,US,United States
+11315,DIK,"Dickinson, ND",ND,North Dakota,US,United States
+11317,DIO,"Diomede Island, AK",AK,Alaska,US,United States
+11327,DJN,"Delta Junction, AK",AK,Alaska,US,United States
+11331,DKK,"Dunkirk, NY",NY,New York,US,United States
+11332,DKR,"Dakar, Senegal",Outside of US,Outside of US,SN,Senegal
+11335,DLF,"Del Rio, TX",TX,Texas,US,United States
+11336,DLG,"Dillingham, AK",AK,Alaska,US,United States
+11337,DLH,"Duluth, MN",MN,Minnesota,US,United States
+11342,DLS,"The Dalles, OR",OR,Oregon,US,United States
+11344,DMA,"Tucson, AZ",AZ,Arizona,US,United States
+11348,DMN,"Deming, NM",NM,New Mexico,US,United States
+11351,DNA,"Okinawa, Japan",Outside of US,Outside of US,JP,Japan
+11358,DNL,"Augusta, GA",GA,Georgia,US,United States
+11359,DNN,"Dalton, GA",GA,Georgia,US,United States
+11363,DNV,"Danville, IL",IL,Illinois,US,United States
+11367,DOF,"Dora Bay, AK",AK,Alaska,US,United States
+11369,DOH,"Doha, Qatar",Outside of US,Outside of US,QA,Qatar
+11371,DOL,"Deauville, France",Outside of US,Outside of US,FR,France
+11372,DOM,"Marigot, Dominica",Outside of US,Outside of US,DM,Dominica
+11373,DON,"Dos Lagunas, Guatemala",Outside of US,Outside of US,GT,Guatemala
+11375,DOV,"Dover, DE",DE,Delaware,US,United States
+11376,DPA,"Chicago, IL",IL,Illinois,US,United States
+11381,AA8,"Deadhorse, AK",AK,Alaska,US,United States
+11387,M91,"Springfield, TN",TN,Tennessee,US,United States
+11391,DQK,"Fort Drum, NY",NY,New York,US,United States
+11392,DQL,"Anchorage, AK",AK,Alaska,US,United States
+11394,DQN,"New Smyrna Beach, FL",FL,Florida,US,United States
+11396,DQP,"Georgetown, KY",KY,Kentucky,US,United States
+11397,DQQ,"Cozad, NE",NE,Nebraska,US,United States
+11399,DQS,"Whitmore, AZ",AZ,Arizona,US,United States
+11401,DQU,"Ketchikan, AK",AK,Alaska,US,United States
+11402,DQV,"Haines, AK",AK,Alaska,US,United States
+11410,DRF,"Drift River, AK",AK,Alaska,US,United States
+11411,DRG,"Deering, AK",AK,Alaska,US,United States
+11413,DRO,"Durango, CO",CO,Colorado,US,United States
+11415,DRT,"Del Rio, TX",TX,Texas,US,United States
+11417,DRW,"Darwin, Australia",Outside of US,Outside of US,AU,Australia
+11418,DSA,"Finningley, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+11421,DSI,"Destin, FL",FL,Florida,US,United States
+11423,DSM,"Des Moines, IA",IA,Iowa,US,United States
+11429,DTN,"Shreveport, LA",LA,Louisiana,US,United States
+11430,DTO,"Denton, TX",TX,Texas,US,United States
+11431,DTR,"Decatur Island, WA",WA,Washington,US,United States
+11433,DTW,"Detroit, MI",MI,Michigan,US,United States
+11434,DUA,"Durant, OK",OK,Oklahoma,US,United States
+11435,DUB,"Dublin, Ireland",Outside of US,Outside of US,IE,Ireland
+11440,DUG,"Douglas, AZ",AZ,Arizona,US,United States
+11441,DUJ,"DuBois, PA",PA,Pennsylvania,US,United States
+11444,DUS,"Dusseldorf, Germany",Outside of US,Outside of US,DE,Germany
+11445,DUT,"Unalaska, AK",AK,Alaska,US,United States
+11446,DVK,"Diavik, Canada",NT,Northwest Territories,CA,Canada
+11447,DVL,"Devils Lake, ND",ND,North Dakota,US,United States
+11450,DVT,"Phoenix, AZ",AZ,Arizona,US,United States
+11452,DWA,"Davis/Woodland/Winters, CA",CA,California,US,United States
+11453,DWH,"Houston, TX",TX,Texas,US,United States
+11455,DXB,"Dubai, United Arab Emirates",Outside of US,Outside of US,AE,United Arab Emirates
+11456,DXR,"Danbury, CT",CT,Connecticut,US,United States
+11459,DYS,"Abilene, TX",TX,Texas,US,United States
+11463,EAA,"Eagle, AK",AK,Alaska,US,United States
+11468,EAR,"Kearney, NE",NE,Nebraska,US,United States
+11470,EAT,"Wenatchee, WA",WA,Washington,US,United States
+11471,EAU,"Eau Claire, WI",WI,Wisconsin,US,United States
+11479,ECG,"Elizabeth City, NC",NC,North Carolina,US,United States
+11481,ECP,"Panama City, FL",FL,Florida,US,United States
+11484,EDA,"Edna Bay, AK",AK,Alaska,US,United States
+11486,EDE,"Edenton, NC",NC,North Carolina,US,United States
+11487,EDF,"Anchorage, AK",AK,Alaska,US,United States
+11488,EDI,"Edinburgh, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+11490,EDW,"Edwards, CA",CA,California,US,United States
+11492,EEK,"Eek, AK",AK,Alaska,US,United States
+11493,EEN,"Keene, NH",NH,New Hampshire,US,United States
+11495,EFD,"Houston, TX",TX,Texas,US,United States
+11496,EFK,"Newport, VT",VT,Vermont,US,United States
+11501,EGA,"Chenega, AK",AK,Alaska,US,United States
+11503,EGE,"Eagle, CO",CO,Colorado,US,United States
+11506,EGP,"Eagle Pass, TX",TX,Texas,US,United States
+11510,EGV,"Eagle River, WI",WI,Wisconsin,US,United States
+11511,EGX,"Egegik, AK",AK,Alaska,US,United States
+11512,EHM,"Cape Newenham, AK",AK,Alaska,US,United States
+11513,EHR,"Eagle Harbor, AK",AK,Alaska,US,United States
+11517,EIL,"Fairbanks, AK",AK,Alaska,US,United States
+11518,EIN,"Eindhoven, Netherlands",Outside of US,Outside of US,NL,Netherlands
+11519,EIS,"Road Town, British Virgin Islands",Outside of US,Outside of US,VG,British Virgin Islands
+11522,EKA,"Eureka, CA",CA,California,US,United States
+11523,EKI,"Elkhart, IN",IN,Indiana,US,United States
+11524,EKN,"Elkins, WV",WV,West Virginia,US,United States
+11525,EKO,"Elko, NV",NV,Nevada,US,United States
+11526,EKX,"Elizabethtown, KY",KY,Kentucky,US,United States
+11527,EKY,"Bessemer, AL",AL,Alabama,US,United States
+11531,ELD,"El Dorado, AR",AR,Arkansas,US,United States
+11534,ELH,"North Eleuthera, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+11535,ELI,"Elim, AK",AK,Alaska,US,United States
+11537,ELM,"Elmira/Corning, NY",NY,New York,US,United States
+11538,ELN,"Ellensburg, WA",WA,Washington,US,United States
+11540,ELP,"El Paso, TX",TX,Texas,US,United States
+11545,ELV,"Elfin Cove, AK",AK,Alaska,US,United States
+11548,EMA,"Derby, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+11550,EMK,"Emmonak, AK",AK,Alaska,US,United States
+11554,EMT,"El Monte, CA",CA,California,US,United States
+11555,ENA,"Kenai, AK",AK,Alaska,US,United States
+11558,ENL,"Centralia, IL",IL,Illinois,US,United States
+11559,ENN,"Nenana, AK",AK,Alaska,US,United States
+11563,ENV,"Wendover, UT",UT,Utah,US,United States
+11564,ENW,"Kenosha, WI",WI,Wisconsin,US,United States
+11577,ERI,"Erie, PA",PA,Pennsylvania,US,United States
+11582,ERV,"Kerrville, TX",TX,Texas,US,United States
+11587,ESC,"Escanaba, MI",MI,Michigan,US,United States
+11588,ESD,"Eastsound, WA",WA,Washington,US,United States
+11589,ESE,"Ensenada, Mexico",Outside of US,Outside of US,MX,Mexico
+11592,ESN,"Easton, MD",MD,Maryland,US,United States
+11602,EUF,"Eufaula, AL",AL,Alabama,US,United States
+11603,EUG,"Eugene, OR",OR,Oregon,US,United States
+11605,EUX,"St. Eustatius, Bonaire, Sint Eustatius, and Saba",Outside of US,Outside of US,BQ,"Bonaire, Sint Eustatius, and Saba"
+11612,EVV,"Evansville, IN",IN,Indiana,US,United States
+11614,EVX,"Evreux, France",Outside of US,Outside of US,FR,France
+11615,EWB,"New Bedford/Fall River, MA",MA,Massachusetts,US,United States
+11616,EWK,"Newton, KS",KS,Kansas,US,United States
+11617,EWN,"New Bern/Morehead/Beaufort, NC",NC,North Carolina,US,United States
+11618,EWR,"Newark, NJ",NJ,New Jersey,US,United States
+11619,EXI,"Excursion Inlet, AK",AK,Alaska,US,United States
+11624,EYW,"Key West, FL",FL,Florida,US,United States
+11625,EZE,"Ezeiza, Argentina",Outside of US,Outside of US,AR,Argentina
+11627,F70,"Murrieta/Temecula, CA",CA,California,US,United States
+11628,FAB,"Farnborough, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+11630,FAI,"Fairbanks, AK",AK,Alaska,US,United States
+11632,FAK,"False Island, AK",AK,Alaska,US,United States
+11637,FAR,"Fargo, ND",ND,North Dakota,US,United States
+11638,FAT,"Fresno, CA",CA,California,US,United States
+11641,FAY,"Fayetteville, NC",NC,North Carolina,US,United States
+11643,FBK,"Fairbanks, AK",AK,Alaska,US,United States
+11646,FBS,"Friday Harbor, WA",WA,Washington,US,United States
+11648,FCA,"Kalispell, MT",MT,Montana,US,United States
+11650,FCM,"Minneapolis, MN",MN,Minnesota,US,United States
+11651,FCO,"Rome, Italy",Outside of US,Outside of US,IT,Italy
+11654,FDF,"Fort de France, Martinique",Outside of US,Outside of US,MQ,Martinique
+11656,FDK,"Frederick, MD",MD,Maryland,US,United States
+11659,FDY,"Findlay, OH",OH,Ohio,US,United States
+11665,FEZ,"Fez, Morocco",Outside of US,Outside of US,MA,Morocco
+11666,FFD,"Fairford, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+11668,FFO,"Dayton, OH",OH,Ohio,US,United States
+11669,FFT,"Frankfort, KY",KY,Kentucky,US,United States
+11673,FHU,"Fort Huachuca, AZ",AZ,Arizona,US,United States
+11675,FID,"Fishers Island, NY",NY,New York,US,United States
+11684,FKL,"Franklin/Oil City, PA",PA,Pennsylvania,US,United States
+11685,FKS,"Fukushima, Japan",Outside of US,Outside of US,JP,Japan
+11686,FL1,"Zephyrhills, FL",FL,Florida,US,United States
+11689,FL4,"Bunnell, FL",FL,Florida,US,United States
+11693,FLD,"Fond Du Lac, WI",WI,Wisconsin,US,United States
+11695,FLG,"Flagstaff, AZ",AZ,Arizona,US,United States
+11697,FLL,"Fort Lauderdale, FL",FL,Florida,US,United States
+11698,FLN,"Florianopolis, Brazil",Outside of US,Outside of US,BR,Brazil
+11699,FLO,"Florence, SC",SC,South Carolina,US,United States
+11700,FLR,"Florence, Italy",Outside of US,Outside of US,IT,Italy
+11702,FLT,"Flat, AK",AK,Alaska,US,United States
+11711,FMN,"Farmington, NM",NM,New Mexico,US,United States
+11714,FMY,"Fort Myers, FL",FL,Florida,US,United States
+11716,FNC,"Funchal, Portugal",Outside of US,Outside of US,PT,Portugal
+11719,FNL,"Fort Collins/Loveland, CO",CO,Colorado,US,United States
+11720,FNR,"Funter Bay Alaska, AK",AK,Alaska,US,United States
+11721,FNT,"Flint, MI",MI,Michigan,US,United States
+11724,FOC,"Fuzhou, China",Outside of US,Outside of US,CN,China
+11725,FOD,"Fort Dodge, IA",IA,Iowa,US,United States
+11726,FOE,"Topeka, KS",KS,Kansas,US,United States
+11728,FOK,"Westhampton, NY",NY,New York,US,United States
+11730,FOR,"Fortaleza, Brazil",Outside of US,Outside of US,BR,Brazil
+11731,FPO,"Freeport, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+11732,FPR,"Fort Pierce, FL",FL,Florida,US,United States
+11733,FPY,"Perry, FL",FL,Florida,US,United States
+11742,FQI,"Scott, KY",KY,Kentucky,US,United States
+11750,FQQ,"Dry Bay, AK",AK,Alaska,US,United States
+11760,FRA,"Frankfurt, Germany",Outside of US,Outside of US,DE,Germany
+11762,FRD,"Friday Harbor, WA",WA,Washington,US,United States
+11764,FRG,"East Farmingdale, NY",NY,New York,US,United States
+11766,FRM,"Fairmont, MN",MN,Minnesota,US,United States
+11769,FRR,"Front Royal, VA",VA,Virginia,US,United States
+11770,FRS,"Flores, Guatemala",Outside of US,Outside of US,GT,Guatemala
+11773,FRY,"Fryeburg, ME",ME,Maine,US,United States
+11775,FSD,"Sioux Falls, SD",SD,South Dakota,US,United States
+11778,FSM,"Fort Smith, AR",AR,Arkansas,US,United States
+11780,FST,"Ft. Stockton, TX",TX,Texas,US,United States
+11784,FTG,"Denver, CO",CO,Colorado,US,United States
+11789,FTW,"Dallas/Fort Worth, TX",TX,Texas,US,United States
+11790,FTY,"Atlanta, GA",GA,Georgia,US,United States
+11793,FUK,"Fukuoka, Japan",Outside of US,Outside of US,JP,Japan
+11794,FUL,"Fullerton, CA",CA,California,US,United States
+11803,FVG,"Wickenburg, AZ",AZ,Arizona,US,United States
+11811,FVO,"Aurora, OR",OR,Oregon,US,United States
+11813,FVQ,"Donlin Creek Mine, AK",AK,Alaska,US,United States
+11823,FWA,"Fort Wayne, IN",IN,Indiana,US,United States
+11824,FWH,"Fort Worth, TX",TX,Texas,US,United States
+11825,FWL,"Farewell, AK",AK,Alaska,US,United States
+11826,FWS,"Fort Worth, TX",TX,Texas,US,United States
+11827,FXE,"Fort Lauderdale, FL",FL,Florida,US,United States
+11828,A35,"Kaktovik, AK",AK,Alaska,US,United States
+11833,FYU,"Fort Yukon, AK",AK,Alaska,US,United States
+11834,FYV,"Fayetteville, AR",AR,Arkansas,US,United States
+11837,GA2,"Carrollton, GA",GA,Georgia,US,United States
+11840,GAD,"Gadsden, AL",AL,Alabama,US,United States
+11842,GAI,"Gaithersburg, MD",MD,Maryland,US,United States
+11844,GAL,"Galena, AK",AK,Alaska,US,United States
+11845,GAM,"Gambell, AK",AK,Alaska,US,United States
+11859,GBH,"Galbraith Lake, AK",AK,Alaska,US,United States
+11862,GBR,"Great Barrington, MA",MA,Massachusetts,US,United States
+11865,GCC,"Gillette, WY",WY,Wyoming,US,United States
+11867,GCK,"Garden City, KS",KS,Kansas,US,United States
+11868,GCM,"Grand Cayman, Cayman Islands",Outside of US,Outside of US,KY,Cayman Islands
+11869,GCN,"Grand Canyon, AZ",AZ,Arizona,US,United States
+11870,GCY,"Greeneville, TN",TN,Tennessee,US,United States
+11871,GDC,"Greenville, SC",SC,South Carolina,US,United States
+11874,GDL,"Guadalajara, Mexico",Outside of US,Outside of US,MX,Mexico
+11876,GDN,"Gdansk, Poland",Outside of US,Outside of US,PL,Poland
+11879,GDV,"Glendive, MT",MT,Montana,US,United States
+11883,GED,"Georgetown, DE",DE,Delaware,US,United States
+11884,GEG,"Spokane, WA",WA,Washington,US,United States
+11885,GEK,"Ganes Creek, AK",AK,Alaska,US,United States
+11888,GEO,"Georgetown, Guyana",Outside of US,Outside of US,GY,Guyana
+11894,GEZ,"Shelbyville, IN",IN,Indiana,US,United States
+11898,GFK,"Grand Forks, ND",ND,North Dakota,US,United States
+11899,GFL,"Glens Falls, NY",NY,New York,US,United States
+11904,GGE,"Georgetown, SC",SC,South Carolina,US,United States
+11905,GGG,"Longview, TX",TX,Texas,US,United States
+11907,GGT,"Moss Town, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+11908,GGW,"Glasgow, MT",MT,Montana,US,United States
+11910,GHB,"Governors Harbour, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+11911,GHC,"Great Harbour Cay, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+11915,GIG,"Rio de Janeiro, Brazil",Outside of US,Outside of US,BR,Brazil
+11921,GJT,"Grand Junction, CO",CO,Colorado,US,United States
+11924,GKN,"Gulkana, AK",AK,Alaska,US,United States
+11928,GLA,"Glasgow, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+11929,GLD,"Goodland, KS",KS,Kansas,US,United States
+11931,GLH,"Greenville, MS",MS,Mississippi,US,United States
+11938,GLR,"Gaylord, MI",MI,Michigan,US,United States
+11939,GLS,"Galveston, TX",TX,Texas,US,United States
+11941,GLV,"Golovin, AK",AK,Alaska,US,United States
+11942,GLW,"Glasgow, KY",KY,Kentucky,US,United States
+11945,GMP,"Seoul, South Korea",Outside of US,Outside of US,KR,South Korea
+11946,GMT,"Granite Mountain, AK",AK,Alaska,US,United States
+11947,GMU,"Greenville, SC",SC,South Carolina,US,United States
+11949,GNB,"Grenoble, France",Outside of US,Outside of US,FR,France
+11950,GND,"Grenada, Grenada",Outside of US,Outside of US,GD,Grenada
+11952,GNU,"Goodnews Bay, AK",AK,Alaska,US,United States
+11953,GNV,"Gainesville, FL",FL,Florida,US,United States
+11954,GOA,"Genoa, Italy",Outside of US,Outside of US,IT,Italy
+11961,GON,"New London/Groton, CT",CT,Connecticut,US,United States
+11966,GOT,"Gothenburg, Sweden",Outside of US,Outside of US,SE,Sweden
+11973,GPT,"Gulfport/Biloxi, MS",MS,Mississippi,US,United States
+11977,GRB,"Green Bay, WI",WI,Wisconsin,US,United States
+11979,GRF,"Tacoma, WA",WA,Washington,US,United States
+11980,GRI,"Grand Island, NE",NE,Nebraska,US,United States
+11982,GRK,"Killeen, TX",TX,Texas,US,United States
+11983,GRO,"Gerona, Spain",Outside of US,Outside of US,ES,Spain
+11986,GRR,"Grand Rapids, MI",MI,Michigan,US,United States
+11987,GRS,"Grosseto, Italy",Outside of US,Outside of US,IT,Italy
+11988,GRU,"Sao Paulo, Brazil",Outside of US,Outside of US,BR,Brazil
+11990,GRX,"Granada, Spain",Outside of US,Outside of US,ES,Spain
+11991,GRZ,"Graz, Austria",Outside of US,Outside of US,AT,Austria
+11992,GSB,"Goldsboro, NC",NC,North Carolina,US,United States
+11995,GSO,"Greensboro/High Point, NC",NC,North Carolina,US,United States
+11996,GSP,"Greer, SC",SC,South Carolina,US,United States
+11997,GST,"Gustavus, AK",AK,Alaska,US,United States
+12003,GTF,"Great Falls, MT",MT,Montana,US,United States
+12007,GTR,"Columbus, MS",MS,Mississippi,US,United States
+12008,GTU,"Georgetown, TX",TX,Texas,US,United States
+12010,GUA,"Guatemala City, Guatemala",Outside of US,Outside of US,GT,Guatemala
+12012,GUC,"Gunnison, CO",CO,Colorado,US,United States
+12016,GUM,"Guam, TT",TT,U.S. Pacific Trust Territories and Possessions,US,United States
+12018,GUP,"Gallup, NM",NM,New Mexico,US,United States
+12021,GUS,"Peru, IN",IN,Indiana,US,United States
+12026,GVA,"Geneva, Switzerland",Outside of US,Outside of US,CH,Switzerland
+12028,GVL,"Gainesville, GA",GA,Georgia,US,United States
+12029,GVQ,"Batavia, NY",NY,New York,US,United States
+12031,GVT,"Greenville, TX",TX,Texas,US,United States
+12039,GWO,"Greenwood, MS",MS,Mississippi,US,United States
+12051,GYE,"Guayaquil, Ecuador",Outside of US,Outside of US,EC,Ecuador
+12052,GYM,"Guaymas, Mexico",Outside of US,Outside of US,MX,Mexico
+12054,GYR,"Goodyear, AZ",AZ,Arizona,US,United States
+12055,GYY,"Gary, IN",IN,Indiana,US,United States
+12062,HAF,"Half Moon Bay, CA",CA,California,US,United States
+12064,HAJ,"Hannover, Germany",Outside of US,Outside of US,DE,Germany
+12066,HAM,"Hamburg, Germany",Outside of US,Outside of US,DE,Germany
+12067,HAN,"Hanoi, Vietnam",Outside of US,Outside of US,VN,Vietnam
+12068,HAO,"Hamilton, OH",OH,Ohio,US,United States
+12070,HAR,"Harrisburg, PA",PA,Pennsylvania,US,United States
+12073,HAV,"Havana, Cuba",Outside of US,Outside of US,CU,Cuba
+12078,HBG,"Hattiesburg, MS",MS,Mississippi,US,United States
+12079,HBH,"Hobart Bay, AK",AK,Alaska,US,United States
+12080,HBI,"Harbour Island, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+12083,HBV,"Hebbronville, TX",TX,Texas,US,United States
+12085,HCA,"Big Spring, TX",TX,Texas,US,United States
+12087,HCR,"Holy Cross, AK",AK,Alaska,US,United States
+12092,HDH,"Mokuleia, HI",HI,Hawaii,US,United States
+12094,HDN,"Hayden, CO",CO,Colorado,US,United States
+12101,HEL,"Helsinki, Finland",Outside of US,Outside of US,FI,Finland
+12106,HEZ,"Natchez, MS",MS,Mississippi,US,United States
+12108,HFD,"Hartford, CT",CT,Connecticut,US,United States
+12115,HGH,"Hangzhou, China",Outside of US,Outside of US,CN,China
+12119,HGR,"Hagerstown, MD",MD,Maryland,US,United States
+12122,HGZ,"Hogatza, AK",AK,Alaska,US,United States
+12124,HHH,"Hilton Head, SC",SC,South Carolina,US,United States
+12125,HHN,"Hahn, Germany",Outside of US,Outside of US,DE,Germany
+12127,HHR,"Hawthorne, CA",CA,California,US,United States
+12128,KS3,"Hiawatha, KS",KS,Kansas,US,United States
+12129,HIB,"Hibbing, MN",MN,Minnesota,US,United States
+12130,HIE,"Whitefield, NH",NH,New Hampshire,US,United States
+12131,HIF,"Ogden, UT",UT,Utah,US,United States
+12132,HII,"Lake Havasu City, AZ",AZ,Arizona,US,United States
+12134,HIK,"Honolulu, HI",HI,Hawaii,US,United States
+12136,HIO,"Hillsboro, OR",OR,Oregon,US,United States
+12137,HIR,"Honiara, Solomon Islands",Outside of US,Outside of US,SB,Solomon Islands
+12141,HKB,"Healy, AK",AK,Alaska,US,United States
+12143,HKG,"Hong Kong, Hong Kong",Outside of US,Outside of US,HK,Hong Kong
+12147,HKS,"Jackson, MS",MS,Mississippi,US,United States
+12149,HKY,"Hickory, NC",NC,North Carolina,US,United States
+12153,HLG,"Wheeling, WV",WV,West Virginia,US,United States
+12154,HLI,"Hollister, CA",CA,California,US,United States
+12155,HLM,"Holland, MI",MI,Michigan,US,United States
+12156,HLN,"Helena, MT",MT,Montana,US,United States
+12163,HMN,"Alamogordo, NM",NM,New Mexico,US,United States
+12164,HMO,"Hermosillo, Mexico",Outside of US,Outside of US,MX,Mexico
+12165,HMS,"Homeshore, AK",AK,Alaska,US,United States
+12169,HND,"Tokyo, Japan",Outside of US,Outside of US,JP,Japan
+12171,HNH,"Hoonah, AK",AK,Alaska,US,United States
+12173,HNL,"Honolulu, HI",HI,Hawaii,US,United States
+12174,HNM,"Hana, HI",HI,Hawaii,US,United States
+12175,HNS,"Haines, AK",AK,Alaska,US,United States
+12177,HOB,"Hobbs, NM",NM,New Mexico,US,United States
+12180,HOG,"Holguin, Cuba",Outside of US,Outside of US,CU,Cuba
+12184,HOM,"Homer, AK",AK,Alaska,US,United States
+12187,HOP,"Hopkinsville, KY",KY,Kentucky,US,United States
+12190,HOT,"Hot Springs, AR",AR,Arkansas,US,United States
+12191,HOU,"Houston, TX",TX,Texas,US,United States
+12193,HOW,"Balboa, Panama",Outside of US,Outside of US,PA,Panama
+12195,HPB,"Hooper Bay, AK",AK,Alaska,US,United States
+12197,HPN,"White Plains, NY",NY,New York,US,United States
+12200,HQM,"Hoquiam, WA",WA,Washington,US,United States
+12206,HRL,"Harlingen/San Benito, TX",TX,Texas,US,United States
+12207,HRO,"Harrison, AR",AR,Arkansas,US,United States
+12211,HSH,"Las Vegas, NV",NV,Nevada,US,United States
+12214,HSL,"Huslia, AK",AK,Alaska,US,United States
+12216,HST,"Homestead, FL",FL,Florida,US,United States
+12217,HSV,"Huntsville, AL",AL,Alabama,US,United States
+12222,HTO,"East Hampton, NY",NY,New York,US,United States
+12223,HTS,"Ashland, WV",WV,West Virginia,US,United States
+12225,HUA,"Huntsville, AL",AL,Alabama,US,United States
+12228,HUF,"Terre Haute, IN",IN,Indiana,US,United States
+12232,HUL,"Houlton, ME",ME,Maine,US,United States
+12233,HUM,"Houma, LA",LA,Louisiana,US,United States
+12235,HUS,"Hughes, AK",AK,Alaska,US,United States
+12236,HUT,"Hutchinson, KS",KS,Kansas,US,United States
+12239,HUX,"Santa Cruz/Huatulco, Mexico",Outside of US,Outside of US,MX,Mexico
+12243,HVC,"Hopkinsville, KY",KY,Kentucky,US,United States
+12244,HVN,"New Haven, CT",CT,Connecticut,US,United States
+12245,HVR,"Havre, MT",MT,Montana,US,United States
+12247,HWD,"Hayward, CA",CA,California,US,United States
+12250,HYA,"Hyannis, MA",MA,Massachusetts,US,United States
+12252,HYG,"Hydaburg, AK",AK,Alaska,US,United States
+12253,HYL,"Hollis, AK",AK,Alaska,US,United States
+12254,HYR,"Hayward, WI",WI,Wisconsin,US,United States
+12255,HYS,"Hays, KS",KS,Kansas,US,United States
+12259,HZL,"Hazleton, PA",PA,Pennsylvania,US,United States
+12263,IAB,"Wichita, KS",KS,Kansas,US,United States
+12264,IAD,"Washington, DC",VA,Virginia,US,United States
+12265,IAG,"Niagara Falls, NY",NY,New York,US,United States
+12266,IAH,"Houston, TX",TX,Texas,US,United States
+12268,IAN,"Kiana, AK",AK,Alaska,US,United States
+12274,IBZ,"Ibiza, Spain",Outside of US,Outside of US,ES,Spain
+12277,ICN,"Seoul, South Korea",Outside of US,Outside of US,KR,South Korea
+12278,ICT,"Wichita, KS",KS,Kansas,US,United States
+12280,IDA,"Idaho Falls, ID",ID,Idaho,US,United States
+12281,IDI,"Indiana, PA",PA,Pennsylvania,US,United States
+12283,IDP,"Independence, KS",KS,Kansas,US,United States
+12287,IEV,"Kiev, Ukraine",Outside of US,Outside of US,UA,Ukraine
+12294,IGG,"Igiugig, AK",AK,Alaska,US,United States
+12297,IGM,"Kingman, AZ",AZ,Arizona,US,United States
+12306,LOT,"Chicago/Romeoville, IL",IL,Illinois,US,United States
+12307,II3,"De Kalb, IL",IL,Illinois,US,United States
+12312,IKB,"Wilkesboro, NC",NC,North Carolina,US,United States
+12314,IKK,"Kankakee, IL",IL,Illinois,US,United States
+12315,IKO,"Nikolski, AK",AK,Alaska,US,United States
+12317,IKV,"Ankeny, IA",IA,Iowa,US,United States
+12320,ILG,"Wilmington, DE",DE,Delaware,US,United States
+12321,ILI,"Iliamna, AK",AK,Alaska,US,United States
+12323,ILM,"Wilmington, NC",NC,North Carolina,US,United States
+12324,ILN,"Wilmington, OH",OH,Ohio,US,United States
+12333,IMM,"Immokalee, FL",FL,Florida,US,United States
+12335,IMT,"Iron Mountain/Kingsfd, MI",MI,Michigan,US,United States
+12337,IN2,"Indianapolis, IN",IN,Indiana,US,United States
+12339,IND,"Indianapolis, IN",IN,Indiana,US,United States
+12343,INL,"International Falls, MN",MN,Minnesota,US,United States
+12347,INS,"Indian Springs, NV",NV,Nevada,US,United States
+12348,INT,"Winston-Salem, NC",NC,North Carolina,US,United States
+12351,INW,"Winslow, AZ",AZ,Arizona,US,United States
+12358,IOW,"Iowa City, IA",IA,Iowa,US,United States
+12363,IPL,"El Centro, CA",CA,California,US,United States
+12365,IPT,"Williamsport, PA",PA,Pennsylvania,US,United States
+12369,IQT,"Iquitos, Peru",Outside of US,Outside of US,PE,Peru
+12370,IRC,"Circle, AK",AK,Alaska,US,United States
+12375,IRK,"Kirksville, MO",MO,Missouri,US,United States
+12388,ISM,"Orlando, FL",FL,Florida,US,United States
+12390,ISO,"Kinston, NC",NC,North Carolina,US,United States
+12391,ISP,"Islip, NY",NY,New York,US,United States
+12393,ISR,"Istres, France",Outside of US,Outside of US,FR,France
+12394,ISS,"Wiscasset, ME",ME,Maine,US,United States
+12395,IST,"Istanbul, Turkey",Outside of US,Outside of US,TR,Turkey
+12396,ISW,"Wisconsin Rapids, WI",WI,Wisconsin,US,United States
+12397,ITH,"Ithaca/Cortland, NY",NY,New York,US,United States
+12402,ITO,"Hilo, HI",HI,Hawaii,US,United States
+12411,IWA,"Ivanovo, Russia",Outside of US,Outside of US,RU,Russia
+12412,IWD,"Ironwood, MI",MI,Michigan,US,United States
+12414,IWO,"Iwoto, Japan",Outside of US,Outside of US,JP,Japan
+12415,IWS,"Houston, TX",TX,Texas,US,United States
+12436,IYK,"Inyokern, CA",CA,California,US,United States
+12441,JAC,"Jackson, WY",WY,Wyoming,US,United States
+12448,JAN,"Jackson/Vicksburg, MS",MS,Mississippi,US,United States
+12451,JAX,"Jacksonville, FL",FL,Florida,US,United States
+12455,JBR,"Jonesboro, AR",AR,Arkansas,US,United States
+12460,JCI,"Olathe, KS",KS,Kansas,US,United States
+12472,JED,"Jeddah, Saudi Arabia",Outside of US,Outside of US,SA,Saudi Arabia
+12474,JEF,"Jefferson City, MO",MO,Missouri,US,United States
+12478,JFK,"New York, NY",NY,New York,US,United States
+12479,JFN,"Jefferson, OH",OH,Ohio,US,United States
+12484,JGG,"Williamsburg, VA",VA,Virginia,US,United States
+12492,JHM,"Kapalua, HI",HI,Hawaii,US,United States
+12494,JHW,"Jamestown, NY",NY,New York,US,United States
+12509,JLA,"Cooper Lodge, AK",AK,Alaska,US,United States
+12511,JLN,"Joplin, MO",MO,Missouri,US,United States
+12516,JMK,"Mikonos Island, Greece",Outside of US,Outside of US,GR,Greece
+12519,JMS,"Jamestown, ND",ND,North Dakota,US,United States
+12520,JNB,"Johannesburg, South Africa",Outside of US,Outside of US,ZA,South Africa
+12523,JNU,"Juneau, AK",AK,Alaska,US,United States
+12544,USA,"Concord, NC",NC,North Carolina,US,United States
+12545,JRA,"New York, NY",NY,New York,US,United States
+12546,JRB,"New York, NY",NY,New York,US,United States
+12549,JRF,"Kapolei, HI",HI,Hawaii,US,United States
+12553,JRV,"Ceiba, PR",PR,Puerto Rico,US,United States
+12559,JST,"Johnstown, PA",PA,Pennsylvania,US,United States
+12571,JVL,"Beloit/Janesville, WI",WI,Wisconsin,US,United States
+12574,TN8,"Nashville, TN",TN,Tennessee,US,United States
+12576,JXN,"Jackson, MI",MI,Michigan,US,United States
+12580,JZB,"Orange, MA",MA,Massachusetts,US,United States
+12583,JZE,"Trading Bay, AK",AK,Alaska,US,United States
+12587,JZI,"Portland, TN",TN,Tennessee,US,United States
+12591,JZM,"Hog River, AK",AK,Alaska,US,United States
+12595,JZQ,"Brooksville, FL",FL,Florida,US,United States
+12598,JZT,"Arlington, TX",TX,Texas,US,United States
+12599,JZU,"Bennington, VT",VT,Vermont,US,United States
+12602,JZX,"Angwin, CA",CA,California,US,United States
+12603,JZY,"Grangeville, ID",ID,Idaho,US,United States
+12610,KAE,"Kake, AK",AK,Alaska,US,United States
+12615,KAL,"Kaltag, AK",AK,Alaska,US,United States
+12621,KBC,"Birch Creek, AK",AK,Alaska,US,United States
+12627,KBP,"Kiev, Ukraine",Outside of US,Outside of US,UA,Ukraine
+12633,KCC,"Coffman Cove, AK",AK,Alaska,US,United States
+12635,KCG,"Chignik Bay, AK",AK,Alaska,US,United States
+12638,KCL,"Chignik Lagoon, AK",AK,Alaska,US,United States
+12641,KCQ,"Chignik, AK",AK,Alaska,US,United States
+12642,KCR,"Colorado Creek, AK",AK,Alaska,US,United States
+12649,KEB,"Nanwalek, AK",AK,Alaska,US,United States
+12651,KEF,"Keflavik/Reykjavik, Iceland",Outside of US,Outside of US,IS,Iceland
+12652,KEH,"Kenmore, WA",WA,Washington,US,United States
+12653,KEK,"Ekwok, AK",AK,Alaska,US,United States
+12661,OCA,"Key Largo, FL",FL,Florida,US,United States
+12663,KFP,"False Pass, AK",AK,Alaska,US,United States
+12667,KGF,"Karaganda, Kazakhstan",Outside of US,Outside of US,KZ,Kazakhstan
+12671,KGK,"Koliganek, AK",AK,Alaska,US,United States
+12676,KGX,"Grayling, AK",AK,Alaska,US,United States
+12684,KHN,"Nanchang, China",Outside of US,Outside of US,CN,China
+12690,KIJ,"Niigata, Japan",Outside of US,Outside of US,JP,Japan
+12693,KIN,"Kingston, Jamaica",Outside of US,Outside of US,JM,Jamaica
+12694,KIR,"Kerry County, Ireland",Outside of US,Outside of US,IE,Ireland
+12699,KIX,"Osaka, Japan",Outside of US,Outside of US,JP,Japan
+12704,KKA,"Koyuk, AK",AK,Alaska,US,United States
+12705,KKB,"Kitoi Bay, AK",AK,Alaska,US,United States
+12708,KKH,"Kongiganak, AK",AK,Alaska,US,United States
+12709,KKI,"Akiachak, AK",AK,Alaska,US,United States
+12710,KKJ,"Kitakyushu, Japan",Outside of US,Outside of US,JP,Japan
+12712,KKL,"Karluk Lake, AK",AK,Alaska,US,United States
+12716,KKU,"Ekuk, AK",AK,Alaska,US,United States
+12719,KLG,"Kalskag, AK",AK,Alaska,US,United States
+12720,KLL,"Levelock, AK",AK,Alaska,US,United States
+12721,KLN,"Larsen Bay, AK",AK,Alaska,US,United States
+12725,KLS,"Kelso, WA",WA,Washington,US,United States
+12728,KLW,"Klawock, AK",AK,Alaska,US,United States
+12737,KMO,"Manokotak, AK",AK,Alaska,US,United States
+12743,KMY,"Moser Bay, AK",AK,Alaska,US,United States
+12745,KNB,"Kanab, UT",UT,Utah,US,United States
+12748,KNK,"Kokhanok, AK",AK,Alaska,US,United States
+12755,KNW,"New Stuyahok, AK",AK,Alaska,US,United States
+12758,KOA,"Kona, HI",HI,Hawaii,US,United States
+12769,KOT,"Kotlik, AK",AK,Alaska,US,United States
+12771,KOY,"Olga Bay, AK",AK,Alaska,US,United States
+12772,KOZ,"Ouzinkie, AK",AK,Alaska,US,United States
+12773,KPB,"Point Baker, AK",AK,Alaska,US,United States
+12774,KPC,"Port Clarence, AK",AK,Alaska,US,United States
+12778,KPM,"Napamute, AK",AK,Alaska,US,United States
+12779,KPN,"Kipnuk, AK",AK,Alaska,US,United States
+12782,KPR,"Port Williams, AK",AK,Alaska,US,United States
+12784,KPV,"Perryville, AK",AK,Alaska,US,United States
+12785,KPY,"Port Bailey, AK",AK,Alaska,US,United States
+12786,KQA,"Akutan, AK",AK,Alaska,US,United States
+12789,KRK,"Krakow, Poland",Outside of US,Outside of US,PL,Poland
+12798,KSA,"Kosrae, Federated States of Micronesia",Outside of US,Outside of US,FM,Federated States of Micronesia
+12807,KSM,"St. Mary's, AK",AK,Alaska,US,United States
+12815,KTB,"Thorne Bay, AK",AK,Alaska,US,United States
+12819,KTN,"Ketchikan, AK",AK,Alaska,US,United States
+12822,KTS,"Brevig Mission, AK",AK,Alaska,US,United States
+12823,KTT,"Kittila, Finland",Outside of US,Outside of US,FI,Finland
+12824,KTW,"Katowice, Poland",Outside of US,Outside of US,PL,Poland
+12829,KUH,"Kushiro, Japan",Outside of US,Outside of US,JP,Japan
+12831,KUK,"Kasigluk, AK",AK,Alaska,US,United States
+12832,KUL,"Kuala Lumpur, Malaysia",Outside of US,Outside of US,MY,Malaysia
+12836,KUV,"Gunsan, South Korea",Outside of US,Outside of US,KR,South Korea
+12841,KVC,"King Cove, AK",AK,Alaska,US,United States
+12844,KVL,"Kivalina, AK",AK,Alaska,US,United States
+12845,KWA,"Kwajalein, Marshall Islands",Outside of US,Outside of US,MH,Marshall Islands
+12847,KWF,"Waterfall, AK",AK,Alaska,US,United States
+12849,KWI,"Kuwait, Kuwait",Outside of US,Outside of US,KW,Kuwait
+12851,KWK,"Kwigillingok, AK",AK,Alaska,US,United States
+12853,KWN,"Quinhagak, AK",AK,Alaska,US,United States
+12854,KWP,"West Point, AK",AK,Alaska,US,United States
+12855,KWT,"Kwethluk, AK",AK,Alaska,US,United States
+12857,KXA,"Kasaan, AK",AK,Alaska,US,United States
+12859,KY1,"Danville, KY",KY,Kentucky,US,United States
+12863,KY5,"Madisonville, KY",KY,Kentucky,US,United States
+12866,KYK,"Karluk, AK",AK,Alaska,US,United States
+12868,KYU,"Koyukuk, AK",AK,Alaska,US,United States
+12869,KZB,"Zachar Bay, AK",AK,Alaska,US,United States
+12873,LAA,"Lamar, CO",CO,Colorado,US,United States
+12878,LAF,"Lafayette, IN",IN,Indiana,US,United States
+12882,LAL,"Lakeland, FL",FL,Florida,US,United States
+12884,LAN,"Lansing, MI",MI,Michigan,US,United States
+12886,LAP,"La Paz, Mexico",Outside of US,Outside of US,MX,Mexico
+12888,LAR,"Laramie, WY",WY,Wyoming,US,United States
+12889,LAS,"Las Vegas, NV",NV,Nevada,US,United States
+12891,LAW,"Lawton/Fort Sill, OK",OK,Oklahoma,US,United States
+12892,LAX,"Los Angeles, CA",CA,California,US,United States
+12896,LBB,"Lubbock, TX",TX,Texas,US,United States
+12898,LBE,"Latrobe, PA",PA,Pennsylvania,US,United States
+12899,LBF,"North Platte, NE",NE,Nebraska,US,United States
+12900,LBG,"Paris, France",Outside of US,Outside of US,FR,France
+12902,LBL,"Liberal, KS",KS,Kansas,US,United States
+12913,LCE,"La Ceiba, Honduras",Outside of US,Outside of US,HN,Honduras
+12915,LCH,"Lake Charles, LA",LA,Louisiana,US,United States
+12916,LCI,"Laconia, NH",NH,New Hampshire,US,United States
+12917,LCK,"Columbus, OH",OH,Ohio,US,United States
+12922,LDE,"Tarbes/Lourdes/Pyrenees, France",Outside of US,Outside of US,FR,France
+12925,LDJ,"Linden, NJ",NJ,New Jersey,US,United States
+12927,LDM,"Ludington, MI",MI,Michigan,US,United States
+12932,LEB,"Lebanon-Hanover, NH",NH,New Hampshire,US,United States
+12934,LEE,"Leesburg, FL",FL,Florida,US,United States
+12938,LEJ,"Leipzig, Germany",Outside of US,Outside of US,DE,Germany
+12944,LEW,"Lewiston/Auburn, ME",ME,Maine,US,United States
+12945,LEX,"Lexington, KY",KY,Kentucky,US,United States
+12947,LFI,"Newport News/Hampton, VA",VA,Virginia,US,United States
+12948,LFK,"Lufkin, TX",TX,Texas,US,United States
+12951,LFT,"Lafayette, LA",LA,Louisiana,US,United States
+12953,LGA,"New York, NY",NY,New York,US,United States
+12954,LGB,"Long Beach, CA",CA,California,US,United States
+12955,LGC,"LaGrange, GA",GA,Georgia,US,United States
+12956,LGD,"La Grande, OR",OR,Oregon,US,United States
+12957,LGG,"Liege, Belgium",Outside of US,Outside of US,BE,Belgium
+12965,LGU,"Logan, UT",UT,Utah,US,United States
+12966,LGW,"London, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+12971,LHQ,"Lancaster, OH",OH,Ohio,US,United States
+12972,LHR,"London, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+12982,LIH,"Lihue, HI",HI,Hawaii,US,United States
+12983,LIJ,"Long Island, AK",AK,Alaska,US,United States
+12986,LIM,"Lima, Peru",Outside of US,Outside of US,PE,Peru
+12987,LIN,"Milan, Italy",Outside of US,Outside of US,IT,Italy
+12990,LIR,"Liberia, Costa Rica",Outside of US,Outside of US,CR,Costa Rica
+12991,LIS,"Lisbon, Portugal",Outside of US,Outside of US,PT,Portugal
+12992,LIT,"Little Rock, AR",AR,Arkansas,US,United States
+12993,LIV,"Livengood, AK",AK,Alaska,US,United States
+12995,LIY,"Hinesville, GA",GA,Georgia,US,United States
+13002,LKE,"Seattle, WA",WA,Washington,US,United States
+13003,LKK,"Kulik Lake, AK",AK,Alaska,US,United States
+13008,LKP,"Lake Placid, NY",NY,New York,US,United States
+13015,LLY,"Mount Holly, NJ",NJ,New Jersey,US,United States
+13016,LMA,"Lake Minchumina, AK",AK,Alaska,US,United States
+13024,LMT,"Klamath Falls, OR",OR,Oregon,US,United States
+13028,LNI,"Lonely, AK",AK,Alaska,US,United States
+13029,LNK,"Lincoln, NE",NE,Nebraska,US,United States
+13031,LNP,"Wise, VA",VA,Virginia,US,United States
+13032,LNS,"Lancaster, PA",PA,Pennsylvania,US,United States
+13034,LNY,"Lanai, HI",HI,Hawaii,US,United States
+13043,LOS,"Lagos, Nigeria",Outside of US,Outside of US,NG,Nigeria
+13044,LOU,"Louisville, KY",KY,Kentucky,US,United States
+13046,LOZ,"London/Corbin, KY",KY,Kentucky,US,United States
+13047,LPA,"Las Palmas, Spain",Outside of US,Outside of US,ES,Spain
+13049,LPC,"Lompoc, CA",CA,California,US,United States
+13055,LPS,"Lopez Island, WA",WA,Washington,US,United States
+13057,LPW,"Little Port Walter, AK",AK,Alaska,US,United States
+13058,LQK,"Pickens, SC",SC,South Carolina,US,United States
+13061,LRD,"Laredo, TX",TX,Texas,US,United States
+13068,LRM,"La Romana, Dominican Republic",Outside of US,Outside of US,DO,Dominican Republic
+13072,LRU,"Las Cruces, NM",NM,New Mexico,US,United States
+13076,LSE,"La Crosse, WI",WI,Wisconsin,US,United States
+13077,LSF,"Columbus, GA",GA,Georgia,US,United States
+13083,LSR,"Lost River, AK",AK,Alaska,US,United States
+13087,LSV,"Las Vegas, NV",NV,Nevada,US,United States
+13094,LTN,"London, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+13095,LTO,"Loreto, Mexico",Outside of US,Outside of US,MX,Mexico
+13105,LUK,"Cincinnati, OH",OH,Ohio,US,United States
+13106,LUL,"Laurel, MS",MS,Mississippi,US,United States
+13109,LUP,"Kalaupapa, HI",HI,Hawaii,US,United States
+13111,LUR,"Cape Lisburne, AK",AK,Alaska,US,United States
+13113,LUX,"Luxembourg, Luxembourg",Outside of US,Outside of US,LU,Luxembourg
+13115,LVD,"Lime Village, AK",AK,Alaska,US,United States
+13117,LVK,"Livermore, CA",CA,California,US,United States
+13118,LVM,"Livingston, MT",MT,Montana,US,United States
+13120,LVS,"Las Vegas, NM",NM,New Mexico,US,United States
+13121,LWB,"Lewisburg, WV",WV,West Virginia,US,United States
+13122,LWC,"Lawrence, KS",KS,Kansas,US,United States
+13125,LWM,"Lawrence, MA",MA,Massachusetts,US,United States
+13127,LWS,"Lewiston, ID",ID,Idaho,US,United States
+13128,LWT,"Lewistown, MT",MT,Montana,US,United States
+13139,LYH,"Lynchburg, VA",VA,Virginia,US,United States
+13143,LYS,"Lyon, France",Outside of US,Outside of US,FR,France
+13144,LYU,"Ely, MN",MN,Minnesota,US,United States
+13151,LZU,"Lawrenceville, GA",GA,Georgia,US,United States
+13152,MA1,"Edgartown, MA",MA,Massachusetts,US,United States
+13155,MAC,"Macon, GA",GA,Georgia,US,United States
+13156,MAD,"Madrid, Spain",Outside of US,Outside of US,ES,Spain
+13157,MAE,"Madera, CA",CA,California,US,United States
+13158,MAF,"Midland/Odessa, TX",TX,Texas,US,United States
+13162,MAJ,"Majuro, Marshall Islands",Outside of US,Outside of US,MH,Marshall Islands
+13165,MAN,"Manchester, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+13166,MAO,"Manaus, Brazil",Outside of US,Outside of US,BR,Brazil
+13175,MAY,"Mangrove Cay, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+13176,MAZ,"Mayaguez, PR",PR,Puerto Rico,US,United States
+13180,MBJ,"Montego Bay, Jamaica",Outside of US,Outside of US,JM,Jamaica
+13182,MBL,"Manistee/Ludington, MI",MI,Michigan,US,United States
+13184,MBS,"Saginaw/Bay City/Midland, MI",MI,Michigan,US,United States
+13192,MCC,"Sacramento, CA",CA,California,US,United States
+13194,MCE,"Merced, CA",CA,California,US,United States
+13195,MCF,"Tampa, FL",FL,Florida,US,United States
+13196,MCG,"McGrath, AK",AK,Alaska,US,United States
+13198,MCI,"Kansas City, MO",MO,Missouri,US,United States
+13200,MCK,"McCook, NE",NE,Nebraska,US,United States
+13203,MCN,"Macon, GA",GA,Georgia,US,United States
+13204,MCO,"Orlando, FL",FL,Florida,US,United States
+13208,MCT,"Muscat, Oman",Outside of US,Outside of US,OM,Oman
+13211,MCW,"Mason City, IA",IA,Iowa,US,United States
+13216,MDC,"Menado, Indonesia",Outside of US,Outside of US,ID,Indonesia
+13217,MDD,"Midland/Odessa, TX",TX,Texas,US,United States
+13218,MDE,"Medellin, Colombia",Outside of US,Outside of US,CO,Colombia
+13221,MDH,"Carbondale, IL",IL,Illinois,US,United States
+13226,MDO,"Middleton Island, AK",AK,Alaska,US,United States
+13230,MDT,"Harrisburg, PA",PA,Pennsylvania,US,United States
+13232,MDW,"Chicago, IL",IL,Illinois,US,United States
+13234,MDY,"Midway Island, TT",TT,U.S. Pacific Trust Territories and Possessions,US,United States
+13236,ME1,"Rangeley, ME",ME,Maine,US,United States
+13239,MEC,"Manta, Ecuador",Outside of US,Outside of US,EC,Ecuador
+13241,MEI,"Meridian, MS",MS,Mississippi,US,United States
+13242,MEJ,"Meadville, PA",PA,Pennsylvania,US,United States
+13243,MEL,"Melbourne, Australia",Outside of US,Outside of US,AU,Australia
+13244,MEM,"Memphis, TN",TN,Tennessee,US,United States
+13246,MEO,"Manteo, NC",NC,North Carolina,US,United States
+13249,MER,"Atwater, CA",CA,California,US,United States
+13251,MEV,"Minden, NV",NV,Nevada,US,United States
+13252,MEX,"Mexico City, Mexico",Outside of US,Outside of US,MX,Mexico
+13255,MFD,"Mansfield, OH",OH,Ohio,US,United States
+13256,MFE,"Mission/McAllen/Edinburg, TX",TX,Texas,US,United States
+13261,MFM,"Macau, Macau",Outside of US,Outside of US,MO,Macau
+13264,MFR,"Medford, OR",OR,Oregon,US,United States
+13268,MFV,"Melfa, VA",VA,Virginia,US,United States
+13269,MGA,"Managua, Nicaragua",Outside of US,Outside of US,NI,Nicaragua
+13273,MGE,"Marietta, GA",GA,Georgia,US,United States
+13277,MGM,"Montgomery, AL",AL,Alabama,US,United States
+13280,MGR,"Moultrie/Thomasville, GA",GA,Georgia,US,United States
+13282,MGW,"Morgantown, WV",WV,West Virginia,US,United States
+13283,MGY,"Dayton, OH",OH,Ohio,US,United States
+13287,MHE,"Mitchell, SD",SD,South Dakota,US,United States
+13289,MHH,"Marsh Harbour, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+13290,MHK,"Manhattan/Ft. Riley, KS",KS,Kansas,US,United States
+13292,MHM,"Minchumina, AK",AK,Alaska,US,United States
+13295,MHR,"Sacramento, CA",CA,California,US,United States
+13296,MHT,"Manchester, NH",NH,New Hampshire,US,United States
+13297,MHV,"Mojave, CA",CA,California,US,United States
+13299,MHZ,"Mildenhall, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+13301,MI2,"Holland, MI",MI,Michigan,US,United States
+13303,MIA,"Miami, FL",FL,Florida,US,United States
+13304,MIB,"Minot, ND",ND,North Dakota,US,United States
+13306,MID,"Merida, Mexico",Outside of US,Outside of US,MX,Mexico
+13307,MIE,"Muncie/Anderson/Newcastle, IN",IN,Indiana,US,United States
+13314,MIO,"Miami, OK",OK,Oklahoma,US,United States
+13321,MIV,"Millville, NJ",NJ,New Jersey,US,United States
+13338,MJX,"Toms River, NJ",NJ,New Jersey,US,United States
+13341,MKC,"Kansas City, MO",MO,Missouri,US,United States
+13342,MKE,"Milwaukee, WI",WI,Wisconsin,US,United States
+13344,MKG,"Muskegon, MI",MI,Michigan,US,United States
+13347,MKK,"Hoolehua, HI",HI,Hawaii,US,United States
+13348,MKL,"Jackson, TN",TN,Tennessee,US,United States
+13350,MKO,"Muskogee, OK",OK,Oklahoma,US,United States
+13354,MKT,"Mankato, MN",MN,Minnesota,US,United States
+13360,MLB,"Melbourne, FL",FL,Florida,US,United States
+13361,MLC,"McAlester, OK",OK,Oklahoma,US,United States
+13363,MLE,"Male, Maldives",Outside of US,Outside of US,MV,Maldives
+13366,MLH,"Mulhouse, France",Outside of US,Outside of US,FR,France
+13367,MLI,"Moline, IL",IL,Illinois,US,United States
+13369,MLL,"Marshall, AK",AK,Alaska,US,United States
+13370,MLM,"Morelia, Mexico",Outside of US,Outside of US,MX,Mexico
+13376,MLT,"Millinocket, ME",ME,Maine,US,United States
+13377,MLU,"Monroe, LA",LA,Louisiana,US,United States
+13381,MLY,"Manley Hot Springs, AK",AK,Alaska,US,United States
+13388,MMH,"Mammoth Lakes, CA",CA,California,US,United States
+13389,MMI,"Athens, TN",TN,Tennessee,US,United States
+13392,MML,"Marshall, MN",MN,Minnesota,US,United States
+13394,MMN,"Stow, MA",MA,Massachusetts,US,United States
+13397,MMT,"Columbia, SC",SC,South Carolina,US,United States
+13398,MMU,"Morristown, NJ",NJ,New Jersey,US,United States
+13408,MNL,"Manila, Philippines",Outside of US,Outside of US,PH,Philippines
+13415,MNT,"Minto, AK",AK,Alaska,US,United States
+13418,MNZ,"Manassas, VA",VA,Virginia,US,United States
+13422,MOB,"Mobile, AL",AL,Alabama,US,United States
+13424,MOD,"Modesto, CA",CA,California,US,United States
+13429,MOP,"Mount Pleasant, MI",MI,Michigan,US,United States
+13431,MOR,"Morristown, TN",TN,Tennessee,US,United States
+13433,MOT,"Minot, ND",ND,North Dakota,US,United States
+13434,MOU,"Mountain Village, AK",AK,Alaska,US,United States
+13439,MPB,"Miami, FL",FL,Florida,US,United States
+13446,MPO,"Mt. Pocono, PA",PA,Pennsylvania,US,United States
+13447,MPR,"McPherson, KS",KS,Kansas,US,United States
+13450,MPV,"Montpelier/Barre, VT",VT,Vermont,US,United States
+13453,MQJ,"Indianapolis, IN",IN,Indiana,US,United States
+13459,MQT,"Marquette, MI",MI,Michigan,US,United States
+13461,MQY,"Smyrna, TN",TN,Tennessee,US,United States
+13463,MRB,"Martinsburg, WV",WV,West Virginia,US,United States
+13464,MRC,"Columbia, TN",TN,Tennessee,US,United States
+13467,MRI,"Anchorage, AK",AK,Alaska,US,United States
+13469,MRK,"Marco Island, FL",FL,Florida,US,United States
+13470,MRN,"Morganton, NC",NC,North Carolina,US,United States
+13472,MRS,"Marseille, France",Outside of US,Outside of US,FR,France
+13476,MRY,"Monterey, CA",CA,California,US,United States
+13480,MSC,"Mesa, AZ",AZ,Arizona,US,United States
+13483,MSJ,"Misawa, Japan",Outside of US,Outside of US,JP,Japan
+13484,MSL,"Muscle Shoals, AL",AL,Alabama,US,United States
+13485,MSN,"Madison, WI",WI,Wisconsin,US,United States
+13486,MSO,"Missoula, MT",MT,Montana,US,United States
+13487,MSP,"Minneapolis, MN",MN,Minnesota,US,United States
+13490,MSS,"Massena, NY",NY,New York,US,United States
+13491,MST,"Maastricht, Netherlands",Outside of US,Outside of US,NL,Netherlands
+13493,MSV,"Monticello, NY",NY,New York,US,United States
+13495,MSY,"New Orleans, LA",LA,Louisiana,US,United States
+13498,MTC,"Mt. Clemens, MI",MI,Michigan,US,United States
+13501,MTH,"Marathon, FL",FL,Florida,US,United States
+13502,MTJ,"Montrose/Delta, CO",CO,Colorado,US,United States
+13504,MTM,"Metlakatla, AK",AK,Alaska,US,United States
+13505,MTN,"Baltimore, MD",MD,Maryland,US,United States
+13506,MTO,"Mattoon/Charleston, IL",IL,Illinois,US,United States
+13507,MTP,"Montauk Point, NY",NY,New York,US,United States
+13512,MTW,"Manitowoc, WI",WI,Wisconsin,US,United States
+13513,MTX,"Fairbanks, AK",AK,Alaska,US,United States
+13514,MTY,"Monterrey, Mexico",Outside of US,Outside of US,MX,Mexico
+13518,MUC,"Munich, Germany",Outside of US,Outside of US,DE,Germany
+13520,MUE,"Kamuela, HI",HI,Hawaii,US,United States
+13525,MUO,"Mountain Home, ID",ID,Idaho,US,United States
+13532,MVD,"Montevideo, Uruguay",Outside of US,Outside of US,UY,Uruguay
+13535,MVL,"Morrisville, VT",VT,Vermont,US,United States
+13537,MVN,"Mount Vernon, IL",IL,Illinois,US,United States
+13540,MVW,"Burlington/Mount Vernon, WA",WA,Washington,US,United States
+13541,MVY,"Martha's Vineyard, MA",MA,Massachusetts,US,United States
+13543,MWA,"Marion/Herrin, IL",IL,Illinois,US,United States
+13546,MWH,"Moses Lake, WA",WA,Washington,US,United States
+13547,MWL,"Mineral Wells, TX",TX,Texas,US,United States
+13554,MXE,"Maxton, NC",NC,North Carolina,US,United States
+13555,MXF,"Montgomery, AL",AL,Alabama,US,United States
+13559,MXL,"Mexicali, Mexico",Outside of US,Outside of US,MX,Mexico
+13560,MXP,"Milan, Italy",Outside of US,Outside of US,IT,Italy
+13564,MXY,"McCarthy, AK",AK,Alaska,US,United States
+13570,MYF,"San Diego, CA",CA,California,US,United States
+13574,MYK,"May Creek, AK",AK,Alaska,US,United States
+13575,MYL,"McCall, ID",ID,Idaho,US,United States
+13577,MYR,"Myrtle Beach, SC",SC,South Carolina,US,United States
+13579,MYU,"Mekoryuk, AK",AK,Alaska,US,United States
+13580,MYV,"Marysville, CA",CA,California,US,United States
+13587,MZJ,"Marana, AZ",AZ,Arizona,US,United States
+13594,MZT,"Mazatlan, Mexico",Outside of US,Outside of US,MX,Mexico
+13596,N47,"Pottstown, PA",PA,Pennsylvania,US,United States
+13597,N87,"Robbinsville, NJ",NJ,New Jersey,US,United States
+13599,NAD,"North Adams, MA",MA,Massachusetts,US,United States
+13602,NAN,"Nadi, Fiji",Outside of US,Outside of US,FJ,Fiji
+13604,NAP,"Naples, Italy",Outside of US,Outside of US,IT,Italy
+13605,NAS,"Nassau, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+13606,NAT,"Natal, Brazil",Outside of US,Outside of US,BR,Brazil
+13612,NBG,"New Orleans, LA",LA,Louisiana,US,United States
+13614,BKK,"Bangkok, Thailand",Outside of US,Outside of US,TH,Thailand
+13618,NBW,"Guantanamo, Cuba",Outside of US,Outside of US,CU,Cuba
+13619,NC1,"Gastonia, NC",NC,North Carolina,US,United States
+13621,NC3,"Shelby, NC",NC,North Carolina,US,United States
+13622,NC4,"Currituck, NC",NC,North Carolina,US,United States
+13624,NCA,"North Caicos, Turks and Caicos Islands",Outside of US,Outside of US,TC,Turks and Caicos Islands
+13625,NCE,"Nice, France",Outside of US,Outside of US,FR,France
+13628,NCL,"Newcastle, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+13629,NCN,"Chenega, AK",AK,Alaska,US,United States
+13630,NCO,"North Kingstown, RI",RI,Rhode Island,US,United States
+13654,NEV,"Nevis, Saint Kitts and Nevis",Outside of US,Outside of US,KN,Saint Kitts and Nevis
+13655,NEW,"New Orleans, LA",LA,Louisiana,US,United States
+13656,NFL,"Fallon, NV",NV,Nevada,US,United States
+13658,NGB,"Ningbo, China",Outside of US,Outside of US,CN,China
+13662,NGF,"Kaneohe, HI",HI,Hawaii,US,United States
+13665,NGP,"Corpus Christi, TX",TX,Texas,US,United States
+13667,NGU,"Norfolk, VA",VA,Virginia,US,United States
+13671,NHK,"Patuxent River, MD",MD,Maryland,US,United States
+13674,NHZ,"Brunswick, ME",ME,Maine,US,United States
+13676,NIB,"Nikolai, AK",AK,Alaska,US,United States
+13680,NIM,"Niamey, Niger",Outside of US,Outside of US,NE,Niger
+13681,NIN,"Ninilchik, AK",AK,Alaska,US,United States
+13682,NIP,"Jacksonville, FL",FL,Florida,US,United States
+13685,NJ1,"Berlin, NJ",NJ,New Jersey,US,United States
+13686,NJ2,"West Creek, NJ",NJ,New Jersey,US,United States
+13689,NJK,"El Centro, CA",CA,California,US,United States
+13692,NKG,"Nanjing, China",Outside of US,Outside of US,CN,China
+13693,NKI,"Naukiti, AK",AK,Alaska,US,United States
+13694,NGO,"Nagoya, Japan",Outside of US,Outside of US,JP,Japan
+13697,N1C,"Cherry Point, NC",NC,North Carolina,US,United States
+13700,NKX,"San Diego, CA",CA,California,US,United States
+13704,NLG,"Nelson Lagoon, AK",AK,Alaska,US,United States
+13709,NMC,"Norman's Cay, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+13710,NME,"Nightmute, AK",AK,Alaska,US,United States
+13714,NNK,"Naknek, AK",AK,Alaska,US,United States
+13715,NNL,"Nondalton, AK",AK,Alaska,US,United States
+13725,NOT,"Novato, CA",CA,California,US,United States
+13726,NOU,"Noumea, New Caledonia",Outside of US,Outside of US,NC,New Caledonia
+13728,NPA,"Pensacola, FL",FL,Florida,US,United States
+13731,NPT,"Newport, RI",RI,Rhode Island,US,United States
+13732,NQA,"Millington, TN",TN,Tennessee,US,United States
+13736,NQX,"Key West, FL",FL,Florida,US,United States
+13737,NQY,"Newquay, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+13744,NRT,"Tokyo, Japan",Outside of US,Outside of US,JP,Japan
+13746,NSB,"Bimini, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+13749,NSI,"Yaounde, Cameroon",Outside of US,Outside of US,CM,Cameroon
+13750,1FL,"Titusville, FL",FL,Florida,US,United States
+13754,NSY,"Sigonella, Italy",Outside of US,Outside of US,IT,Italy
+13756,NTD,"Port Hueneme, CA",CA,California,US,United States
+13758,NTL,"Newcastle, Australia",Outside of US,Outside of US,AU,Australia
+13762,NTR,"Monterrey, Mexico",Outside of US,Outside of US,MX,Mexico
+13763,NTU,"Oceana, VA",VA,Virginia,US,United States
+13765,NUE,"Nuremberg, Germany",Outside of US,Outside of US,DE,Germany
+13767,NUI,"Nuiqsut, AK",AK,Alaska,US,United States
+13768,NUL,"Nulato, AK",AK,Alaska,US,United States
+13770,NUP,"Nunapitchuk, AK",AK,Alaska,US,United States
+13771,NUQ,"Mountain View, CA",CA,California,US,United States
+13772,NUW,"Whidbey Island, WA",WA,Washington,US,United States
+13781,NY1,"Kingston, NY",NY,New York,US,United States
+13782,NY2,"Fulton, NY",NY,New York,US,United States
+13785,NYL,"Yuma, AZ",AZ,Arizona,US,United States
+13788,VQQ,"Jacksonville, FL",FL,Florida,US,United States
+13791,NZY,"San Diego, CA",CA,California,US,United States
+13794,OAI,"Bagram, Afghanistan",Outside of US,Outside of US,AF,Afghanistan
+13795,OAJ,"Jacksonville/Camp Lejeune, NC",NC,North Carolina,US,United States
+13796,OAK,"Oakland, CA",CA,California,US,United States
+13799,OAX,"Oaxaca, Mexico",Outside of US,Outside of US,MX,Mexico
+13802,OBF,"Oberpfaffenhofen, Germany",Outside of US,Outside of US,DE,Germany
+13805,OBT,"Oakland, MD",MD,Maryland,US,United States
+13806,OBU,"Kobuk, AK",AK,Alaska,US,United States
+13808,OCE,"Ocean City, MD",MD,Maryland,US,United States
+13809,OCF,"Ocala, FL",FL,Florida,US,United States
+13812,OCJ,"Ocho Rios, Jamaica",Outside of US,Outside of US,JM,Jamaica
+13814,OCW,"Washington, NC",NC,North Carolina,US,United States
+13821,ODW,"Oak Harbor, WA",WA,Washington,US,United States
+13824,OFF,"Omaha, NE",NE,Nebraska,US,United States
+13829,OGD,"Ogden, UT",UT,Utah,US,United States
+13830,OGG,"Kahului, HI",HI,Hawaii,US,United States
+13832,OGS,"Ogdensburg, NY",NY,New York,US,United States
+13835,OH3,"Chillicothe, OH",OH,Ohio,US,United States
+13837,OH5,"Cincinnati, OH",OH,Ohio,US,United States
+13840,OHA,"Ohakea, New Zealand",Outside of US,Outside of US,NZ,New Zealand
+13841,OHC,"Northeast Cape, AK",AK,Alaska,US,United States
+13845,OIC,"Norwich, NY",NY,New York,US,United States
+13847,OIT,"Oita, Japan",Outside of US,Outside of US,JP,Japan
+13851,OKC,"Oklahoma City, OK",OK,Oklahoma,US,United States
+13854,OKK,"Kokomo/Logansport/Peru, IN",IN,Indiana,US,United States
+13856,OKO,"Tokyo, Japan",Outside of US,Outside of US,JP,Japan
+13860,OLB,"Olbia, Italy",Outside of US,Outside of US,IT,Italy
+13861,OLE,"Olean, NY",NY,New York,US,United States
+13862,OLF,"Wolf Point, MT",MT,Montana,US,United States
+13863,OLH,"Old Harbor, AK",AK,Alaska,US,United States
+13865,OLM,"Olympia, WA",WA,Washington,US,United States
+13868,OLS,"Nogales, AZ",AZ,Arizona,US,United States
+13870,OLV,"Olive Branch, MS",MS,Mississippi,US,United States
+13871,OMA,"Omaha, NE",NE,Nebraska,US,United States
+13873,OME,"Nome, AK",AK,Alaska,US,United States
+13881,ONA,"Winona, MN",MN,Minnesota,US,United States
+13884,ONH,"Oneonta, NY",NY,New York,US,United States
+13888,ONN,"Onion Bay, AK",AK,Alaska,US,United States
+13890,ONP,"Newport, OR",OR,Oregon,US,United States
+13891,ONT,"Ontario, CA",CA,California,US,United States
+13894,OOK,"Toksook, AK",AK,Alaska,US,United States
+13898,OPF,"Miami, FL",FL,Florida,US,United States
+13900,OPO,"Porto, Portugal",Outside of US,Outside of US,PT,Portugal
+13902,OQB,"Bible Camp, AK",AK,Alaska,US,United States
+13906,OQG,"Tracy Arm, AK",AK,Alaska,US,United States
+13924,OQZ,"American Creek, AK",AK,Alaska,US,United States
+13925,OR1,"Grants Pass, OR",OR,Oregon,US,United States
+13927,OR3,"Florence, OR",OR,Oregon,US,United States
+13928,ORB,"Orebro, Sweden",Outside of US,Outside of US,SE,Sweden
+13930,ORD,"Chicago, IL",IL,Illinois,US,United States
+13931,ORF,"Norfolk, VA",VA,Virginia,US,United States
+13933,ORH,"Worcester, MA",MA,Massachusetts,US,United States
+13934,ORI,"Port Lions, AK",AK,Alaska,US,United States
+13935,ORK,"Cork, Ireland",Outside of US,Outside of US,IE,Ireland
+13936,ORL,"Orlando, FL",FL,Florida,US,United States
+13940,ORT,"Northway, AK",AK,Alaska,US,United States
+13942,ORV,"Noorvik, AK",AK,Alaska,US,United States
+13947,OSC,"Oscoda, MI",MI,Michigan,US,United States
+13949,OSH,"Oshkosh, WI",WI,Wisconsin,US,United States
+13954,OSN,"Osan, South Korea",Outside of US,Outside of US,KR,South Korea
+13957,OST,"Ostend, Belgium",Outside of US,Outside of US,BE,Belgium
+13958,OSU,"Columbus, OH",OH,Ohio,US,United States
+13964,OTH,"North Bend/Coos Bay, OR",OR,Oregon,US,United States
+13965,OTM,"Ottumwa, IA",IA,Iowa,US,United States
+13966,OTP,"Bucharest, Romania",Outside of US,Outside of US,RO,Romania
+13968,OTS,"Anacortes, WA",WA,Washington,US,United States
+13970,OTZ,"Kotzebue, AK",AK,Alaska,US,United States
+13976,OUN,"Norman, OK",OK,Oklahoma,US,United States
+13980,OVD,"Asturias, Spain",Outside of US,Outside of US,ES,Spain
+13981,OVE,"Oroville, CA",CA,California,US,United States
+13983,OWB,"Owensboro, KY",KY,Kentucky,US,United States
+13984,OWD,"Norwood, MA",MA,Massachusetts,US,United States
+13987,OXC,"Waterbury, CT",CT,Connecticut,US,United States
+13988,OXR,"Oxnard/Ventura, CA",CA,California,US,United States
+13995,OZA,"Ozona, TX",TX,Texas,US,United States
+13998,OZP,"Moron, Spain",Outside of US,Outside of US,ES,Spain
+14001,PA2,"Bedford, PA",PA,Pennsylvania,US,United States
+14004,PAE,"Everett, WA",WA,Washington,US,United States
+14006,PAH,"Paducah, KY",KY,Kentucky,US,United States
+14009,PAM,"Panama City, FL",FL,Florida,US,United States
+14011,PAO,"Palo Alto, CA",CA,California,US,United States
+14012,PAP,"Port-au-Prince, Haiti",Outside of US,Outside of US,HT,Haiti
+14013,PAQ,"Palmer, AK",AK,Alaska,US,United States
+14022,PBC,"Puebla, Mexico",Outside of US,Outside of US,MX,Mexico
+14025,PBG,"Plattsburgh, NY",NY,New York,US,United States
+14027,PBI,"West Palm Beach/Palm Beach, FL",FL,Florida,US,United States
+14028,PBK,"Pack Creek, AK",AK,Alaska,US,United States
+14030,PBM,"Zanderij, Suriname",Outside of US,Outside of US,SR,Suriname
+14034,PBX,"Pikeville, KY",KY,Kentucky,US,United States
+14037,PCA,"Portage Creek, AK",AK,Alaska,US,United States
+14044,PCT,"Princeton, NJ",NJ,New Jersey,US,United States
+14046,PDB,"Pedro Bay, AK",AK,Alaska,US,United States
+14050,PDK,"Atlanta, GA",GA,Georgia,US,United States
+14051,PDL,"Ponta Delgada, Portugal",Outside of US,Outside of US,PT,Portugal
+14052,PDP,"Maldonado, Uruguay",Outside of US,Outside of US,UY,Uruguay
+14054,PDT,"Pendleton, OR",OR,Oregon,US,United States
+14057,PDX,"Portland, OR",OR,Oregon,US,United States
+14062,PEC,"Pelican, AK",AK,Alaska,US,United States
+14065,PEI,"Pereira, Colombia",Outside of US,Outside of US,CO,Colombia
+14066,PEK,"Beijing, China",Outside of US,Outside of US,CN,China
+14070,PEQ,"Pecos City, TX",TX,Texas,US,United States
+14071,PER,"Perth, Australia",Outside of US,Outside of US,AU,Australia
+14081,PGA,"Page, AZ",AZ,Arizona,US,United States
+14082,PGD,"Punta Gorda, FL",FL,Florida,US,United States
+14087,PGL,"Pascagoula, MS",MS,Mississippi,US,United States
+14088,PGM,"Port Graham, AK",AK,Alaska,US,United States
+14089,PGO,"Pagosa Springs, CO",CO,Colorado,US,United States
+14091,PGS,"Peach Springs, AZ",AZ,Arizona,US,United States
+14092,PGV,"Greenville, NC",NC,North Carolina,US,United States
+14098,PHF,"Newport News/Williamsburg, VA",VA,Virginia,US,United States
+14100,PHL,"Philadelphia, PA",PA,Pennsylvania,US,United States
+14101,PHN,"Port Huron, MI",MI,Michigan,US,United States
+14102,PHO,"Point Hope, AK",AK,Alaska,US,United States
+14107,PHX,"Phoenix, AZ",AZ,Arizona,US,United States
+14108,PIA,"Peoria, IL",IL,Illinois,US,United States
+14109,PIB,"Hattiesburg/Laurel, MS",MS,Mississippi,US,United States
+14112,PIE,"St. Petersburg, FL",FL,Florida,US,United States
+14113,PIH,"Pocatello, ID",ID,Idaho,US,United States
+14115,PIK,"Glasgow/Prestwick, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+14118,PIO,"Pisco, Peru",Outside of US,Outside of US,PE,Peru
+14119,PIP,"Pilot Point, AK",AK,Alaska,US,United States
+14120,PIR,"Pierre, SD",SD,South Dakota,US,United States
+14122,PIT,"Pittsburgh, PA",PA,Pennsylvania,US,United States
+14125,PIZ,"Point Lay, AK",AK,Alaska,US,United States
+14130,PKA,"Napaskiak, AK",AK,Alaska,US,United States
+14131,PKB,"Parkersburg, WV",WV,West Virginia,US,United States
+14150,PLN,"Pellston, MI",MI,Michigan,US,United States
+14153,PLS,"Providenciales, Turks and Caicos Islands",Outside of US,Outside of US,TC,Turks and Caicos Islands
+14166,PMI,"Palma Mallorca, Spain",Outside of US,Outside of US,ES,Spain
+14167,PML,"Port Moller, AK",AK,Alaska,US,United States
+14168,PMO,"Palermo, Italy",Outside of US,Outside of US,IT,Italy
+14182,PNE,"Philadelphia, PA",PA,Pennsylvania,US,United States
+14185,PNH,"Phnom Penh, Cambodia",Outside of US,Outside of US,KH,Cambodia
+14186,PNI,"Pohnpei, Federated States of Micronesia",Outside of US,Outside of US,FM,Federated States of Micronesia
+14193,PNS,"Pensacola, FL",FL,Florida,US,United States
+14194,PNX,"Sherman-Denison, TX",TX,Texas,US,United States
+14197,POB,"Fayetteville, NC",NC,North Carolina,US,United States
+14206,POM,"Port Moresby, Papua New Guinea",Outside of US,Outside of US,PG,Papua New Guinea
+14207,POP,"Puerto Plata, Dominican Republic",Outside of US,Outside of US,DO,Dominican Republic
+14210,POS,"Port of Spain, Trinidad and Tobago",Outside of US,Outside of US,TT,Trinidad and Tobago
+14212,POU,"Poughkeepsie, NY",NY,New York,US,United States
+14218,PPC,"Prospect Creek, AK",AK,Alaska,US,United States
+14222,PPG,"Pago Pago, TT",TT,U.S. Pacific Trust Territories and Possessions,US,United States
+14223,PPM,"Pompano Beach, FL",FL,Florida,US,United States
+14228,PPT,"Papeete, French Polynesia",Outside of US,Outside of US,PF,French Polynesia
+14229,PPV,"Port Protection, AK",AK,Alaska,US,United States
+14231,PQI,"Presque Isle/Houlton, ME",ME,Maine,US,United States
+14234,PQS,"Pilot Station, AK",AK,Alaska,US,United States
+14236,PRB,"Paso Robles, CA",CA,California,US,United States
+14237,PRC,"Prescott, AZ",AZ,Arizona,US,United States
+14239,PRG,"Prague, Czech Republic",Outside of US,Outside of US,CZ,Czech Republic
+14243,PRN,"Pristina, Kosovo",Outside of US,Outside of US,KV,Kosovo
+14250,PSA,"Pisa, Italy",Outside of US,Outside of US,IT,Italy
+14252,PSC,"Pasco/Kennewick/Richland, WA",WA,Washington,US,United States
+14254,PSE,"Ponce, PR",PR,Puerto Rico,US,United States
+14255,PSF,"Pittsfield, MA",MA,Massachusetts,US,United States
+14256,PSG,"Petersburg, AK",AK,Alaska,US,United States
+14258,PSK,"Dublin, VA",VA,Virginia,US,United States
+14259,PSM,"Portsmouth, NH",NH,New Hampshire,US,United States
+14262,PSP,"Palm Springs, CA",CA,California,US,United States
+14268,PTA,"Port Alsworth, AK",AK,Alaska,US,United States
+14270,PTD,"Port Alexander, AK",AK,Alaska,US,United States
+14273,PTH,"Port Heiden, AK",AK,Alaska,US,United States
+14275,PTK,"Pontiac, MI",MI,Michigan,US,United States
+14276,PTL,"Port Armstrong, AK",AK,Alaska,US,United States
+14277,PTN,"Patterson, LA",LA,Louisiana,US,United States
+14278,PTP,"Pointe A Pitre, Guadeloupe",Outside of US,Outside of US,GP,Guadeloupe
+14282,PTU,"Platinum, AK",AK,Alaska,US,United States
+14283,PTV,"Porterville, CA",CA,California,US,United States
+14284,PTW,"Pottstown, PA",PA,Pennsylvania,US,United States
+14286,PTY,"Panama City, Panama",Outside of US,Outside of US,PA,Panama
+14288,PUB,"Pueblo, CO",CO,Colorado,US,United States
+14289,PUC,"Price, UT",UT,Utah,US,United States
+14293,PUJ,"Punta Cana, Dominican Republic",Outside of US,Outside of US,DO,Dominican Republic
+14295,PUL,"Poulsbo, WA",WA,Washington,US,United States
+14297,PUQ,"Punta Arenas, Chile",Outside of US,Outside of US,CL,Chile
+14303,PUW,"Pullman, WA",WA,Washington,US,United States
+14306,PVC,"Provincetown, MA",MA,Massachusetts,US,United States
+14307,PVD,"Providence, RI",RI,Rhode Island,US,United States
+14309,PVG,"Shanghai, China",Outside of US,Outside of US,CN,China
+14312,PVR,"Puerto Vallarta, Mexico",Outside of US,Outside of US,MX,Mexico
+14314,PVU,"Provo, UT",UT,Utah,US,United States
+14318,PWA,"Oklahoma City, OK",OK,Oklahoma,US,United States
+14320,PWK,"Chicago, IL",IL,Illinois,US,United States
+14321,PWM,"Portland, ME",ME,Maine,US,United States
+14323,PWT,"Bremerton, WA",WA,Washington,US,United States
+14324,PXM,"Puerto Escondido, Mexico",Outside of US,Outside of US,MX,Mexico
+14325,PXO,"Porto Santo, Portugal",Outside of US,Outside of US,PT,Portugal
+14332,PYM,"Plymouth, MA",MA,Massachusetts,US,United States
+14344,QAJ,"Globe, AZ",AZ,Arizona,US,United States
+14355,QBC,"Bella Coola, Canada",BC,British Columbia,CA,Canada
+14397,QMA,"Kennesaw, GA",GA,Georgia,US,United States
+14400,QMN,"Mansfield, MA",MA,Massachusetts,US,United States
+14412,QQB,"Keyes Point, AK",AK,Alaska,US,United States
+14417,QQG,"Westminster, MD",MD,Maryland,US,United States
+14424,QQN,"Woodlake, CA",CA,California,US,United States
+14427,QQQ,"Grass Valley, CA",CA,California,US,United States
+14430,QQT,"Peachtree City, GA",GA,Georgia,US,United States
+14431,QQU,"Window Rock, AZ",AZ,Arizona,US,United States
+14434,QQX,"Healdsburg, CA",CA,California,US,United States
+14435,QQY,"San Marcos, TX",TX,Texas,US,United States
+14447,RAC,"Racine, WI",WI,Wisconsin,US,United States
+14453,RAK,"Marrakech, Morocco",Outside of US,Outside of US,MA,Morocco
+14454,RAL,"Riverside, CA",CA,California,US,United States
+14457,RAP,"Rapid City, SD",SD,South Dakota,US,United States
+14458,RAR,"Avarua, Cook Islands",Outside of US,Outside of US,CK,Cook Islands
+14463,RBA,"Rabat, Morocco",Outside of US,Outside of US,MA,Morocco
+14465,RBD,"Dallas/Fort Worth, TX",TX,Texas,US,United States
+14466,RBF,"Big Bear City, CA",CA,California,US,United States
+14467,RBG,"Roseburg, OR",OR,Oregon,US,United States
+14468,RBH,"Brooks Lodge, AK",AK,Alaska,US,United States
+14469,RBL,"Red Bluff, CA",CA,California,US,United States
+14470,RBN,"Fort Jefferson, FL",FL,Florida,US,United States
+14474,RBY,"Ruby, AK",AK,Alaska,US,United States
+14475,RCA,"Rapid City, SD",SD,South Dakota,US,United States
+14477,RCE,"Roche Harbor, WA",WA,Washington,US,United States
+14485,RDB,"Red Dog, AK",AK,Alaska,US,United States
+14487,RDD,"Redding, CA",CA,California,US,United States
+14488,RDG,"Reading, PA",PA,Pennsylvania,US,United States
+14489,RDM,"Bend/Redmond, OR",OR,Oregon,US,United States
+14492,RDU,"Raleigh/Durham, NC",NC,North Carolina,US,United States
+14493,RDV,"Red Devil, AK",AK,Alaska,US,United States
+14495,REB,"Redlands, CA",CA,California,US,United States
+14512,RFD,"Rockford, IL",IL,Illinois,US,United States
+14520,RHI,"Rhinelander, WI",WI,Wisconsin,US,United States
+14524,RIC,"Richmond, VA",VA,Virginia,US,United States
+14530,RIL,"Rifle, CO",CO,Colorado,US,United States
+14533,RIV,"Riverside, CA",CA,California,US,United States
+14534,RIW,"Riverton/Lander, WY",WY,Wyoming,US,United States
+14539,RKD,"Rockland, ME",ME,Maine,US,United States
+14543,RKS,"Rock Springs, WY",WY,Wyoming,US,United States
+14545,RKV,"Reykjavik, Iceland",Outside of US,Outside of US,IS,Iceland
+14551,RLU,"Bornite/Ruby Creek, AK",AK,Alaska,US,United States
+14553,RME,"Rome, NY",NY,New York,US,United States
+14554,RMG,"Rome, GA",GA,Georgia,US,United States
+14557,RMN,"Stafford, VA",VA,Virginia,US,United States
+14559,RMP,"Rampart, AK",AK,Alaska,US,United States
+14561,RMS,"Ramstein, Germany",Outside of US,Outside of US,DE,Germany
+14564,RNC,"McMinnville, TN",TN,Tennessee,US,United States
+14570,RNO,"Reno, NV",NV,Nevada,US,United States
+14572,RNT,"Renton, WA",WA,Washington,US,United States
+14574,ROA,"Roanoke, VA",VA,Virginia,US,United States
+14575,ROB,"Monrovia, Liberia",Outside of US,Outside of US,LR,Liberia
+14576,ROC,"Rochester, NY",NY,New York,US,United States
+14577,ROG,"Rogers, AR",AR,Arkansas,US,United States
+14582,ROP,"Rota, TT",TT,U.S. Pacific Trust Territories and Possessions,US,United States
+14583,ROR,"Koror, Palau",Outside of US,Outside of US,PW,Palau
+14588,ROW,"Roswell, NM",NM,New Mexico,US,United States
+14597,RQE,"Prosser, WA",WA,Washington,US,United States
+14601,RQI,"Nixon Fork Mine, AK",AK,Alaska,US,United States
+14603,RQK,"China Lake, CA",CA,California,US,United States
+14614,RQV,"Salt Lake City, UT",UT,Utah,US,United States
+14616,RQX,"Burlington, CO",CO,Colorado,US,United States
+14618,RQZ,"Mary Esther, FL",FL,Florida,US,United States
+14623,RRT,"Warroad, MN",MN,Minnesota,US,United States
+14626,RSD,"Rock Sound, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+14627,RSH,"Russian Mission, AK",AK,Alaska,US,United States
+14628,RSJ,"Rosario, WA",WA,Washington,US,United States
+14630,RSN,"Ruston, LA",LA,Louisiana,US,United States
+14631,RSP,"Raspberry Strait, AK",AK,Alaska,US,United States
+14633,RST,"Rochester, MN",MN,Minnesota,US,United States
+14635,RSW,"Fort Myers, FL",FL,Florida,US,United States
+14637,RTB,"Roatan Island, Honduras",Outside of US,Outside of US,HN,Honduras
+14639,RTM,"Rotterdam, Netherlands",Outside of US,Outside of US,NL,Netherlands
+14640,RTN,"Raton, NM",NM,New Mexico,US,United States
+14646,RUI,"Ruidoso, NM",NM,New Mexico,US,United States
+14648,RUT,"Rutland, VT",VT,Vermont,US,United States
+14653,RVS,"Tulsa, OK",OK,Oklahoma,US,United States
+14655,RWB,"Rowan Bay, AK",AK,Alaska,US,United States
+14656,RWI,"Rocky Mount, NC",NC,North Carolina,US,United States
+14657,RWL,"Rawlins, WY",WY,Wyoming,US,United States
+14660,RYE,"Greeley, CO",CO,Colorado,US,United States
+14664,RZE,"Rzeszow, Poland",Outside of US,Outside of US,PL,Poland
+14670,SAA,"Saratoga, WY",WY,Wyoming,US,United States
+14672,SAC,"Sacramento, CA",CA,California,US,United States
+14673,SAD,"Safford, AZ",AZ,Arizona,US,United States
+14674,SAF,"Santa Fe, NM",NM,New Mexico,US,United States
+14677,SAL,"San Salvador, El Salvador",Outside of US,Outside of US,SV,El Salvador
+14679,SAN,"San Diego, CA",CA,California,US,United States
+14681,SAP,"San Pedro Sula, Honduras",Outside of US,Outside of US,HN,Honduras
+14682,SAQ,"San Andros, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+14683,SAT,"San Antonio, TX",TX,Texas,US,United States
+14685,SAV,"Savannah, GA",GA,Georgia,US,United States
+14689,SBA,"Santa Barbara, CA",CA,California,US,United States
+14691,SBD,"San Bernardino, CA",CA,California,US,United States
+14692,SBH,"Saint Barthelemy, Saint Barthelemy",Outside of US,Outside of US,BL,Saint Barthelemy
+14695,SBM,"Sheboygan, WI",WI,Wisconsin,US,United States
+14696,SBN,"South Bend, IN",IN,Indiana,US,United States
+14698,SBP,"San Luis Obispo, CA",CA,California,US,United States
+14704,SBY,"Salisbury, MD",MD,Maryland,US,United States
+14706,SC1,"Beaufort, SC",SC,South Carolina,US,United States
+14709,SCC,"Deadhorse, AK",AK,Alaska,US,United States
+14711,SCE,"State College, PA",PA,Pennsylvania,US,United States
+14712,SCF,"Phoenix, AZ",AZ,Arizona,US,United States
+14713,SCH,"Schenectady, NY",NY,New York,US,United States
+14715,SCJ,"Smith Cove, AK",AK,Alaska,US,United States
+14716,SCK,"Stockton, CA",CA,California,US,United States
+14717,SCL,"Santiago, Chile",Outside of US,Outside of US,CL,Chile
+14718,SCM,"Scammon Bay, AK",AK,Alaska,US,United States
+14722,SCU,"Santiago, Cuba",Outside of US,Outside of US,CU,Cuba
+14730,SDF,"Louisville, KY",KY,Kentucky,US,United States
+14733,SDJ,"Sendai, Japan",Outside of US,Outside of US,JP,Japan
+14735,SDL,"Sundsvall, Sweden",Outside of US,Outside of US,SE,Sweden
+14736,SDM,"San Diego, CA",CA,California,US,United States
+14738,SDP,"Sandpoint, AK",AK,Alaska,US,United States
+14739,SDQ,"Santo Domingo, Dominican Republic",Outside of US,Outside of US,DO,Dominican Republic
+14744,SDX,"Sedona, AZ",AZ,Arizona,US,United States
+14745,SDY,"Sidney, MT",MT,Montana,US,United States
+14747,SEA,"Seattle, WA",WA,Washington,US,United States
+14749,SEE,"San Diego, CA",CA,California,US,United States
+14750,SEF,"Sebring, FL",FL,Florida,US,United States
+14751,SEG,"Selinsgrove, PA",PA,Pennsylvania,US,United States
+14753,SEM,"Selma, AL",AL,Alabama,US,United States
+14754,SEN,"Southend-On-Sea, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+14761,SFB,"Sanford, FL",FL,Florida,US,United States
+14763,SFD,"San Fernando, Venezuela",Outside of US,Outside of US,VE,Venezuela
+14764,SFF,"Spokane, WA",WA,Washington,US,United States
+14765,SFG,"Grand Case, Saint Martin",Outside of US,Outside of US,MF,Saint Martin
+14766,SFH,"San Felipe, Mexico",Outside of US,Outside of US,MX,Mexico
+14767,SFJ,"Sondre Stromfjord, Greenland",Outside of US,Outside of US,GL,Greenland
+14769,SFM,"Sanford, ME",ME,Maine,US,United States
+14771,SFO,"San Francisco, CA",CA,California,US,United States
+14778,SFZ,"Smithfield, RI",RI,Rhode Island,US,United States
+14783,SGF,"Springfield, MO",MO,Missouri,US,United States
+14785,SGH,"Springfield, OH",OH,Ohio,US,United States
+14789,SGN,"Ho Chi Minh City, Vietnam",Outside of US,Outside of US,VN,Vietnam
+14792,SGR,"Sugar Land, TX",TX,Texas,US,United States
+14794,SGU,"St. George, UT",UT,Utah,US,United States
+14797,SGY,"Skagway, AK",AK,Alaska,US,United States
+14802,SHD,"Staunton, VA",VA,Virginia,US,United States
+14804,SHG,"Shungnak, AK",AK,Alaska,US,United States
+14805,SHH,"Shishmaref, AK",AK,Alaska,US,United States
+14810,SHN,"Shelton, WA",WA,Washington,US,United States
+14812,SHR,"Sheridan, WY",WY,Wyoming,US,United States
+14814,SHV,"Shreveport, LA",LA,Louisiana,US,United States
+14816,SHX,"Shageluk, AK",AK,Alaska,US,United States
+14818,SID,"Sal Island, Cape Verde",Outside of US,Outside of US,CV,Cape Verde
+14819,SIG,"San Juan, PR",PR,Puerto Rico,US,United States
+14824,SIN,"Singapore, Singapore",Outside of US,Outside of US,SG,Singapore
+14828,SIT,"Sitka, AK",AK,Alaska,US,United States
+14830,SIY,"Montague, CA",CA,California,US,United States
+14831,SJC,"San Jose, CA",CA,California,US,United States
+14832,SJD,"San Jose del Cabo, Mexico",Outside of US,Outside of US,MX,Mexico
+14836,SJK,"Sao Jose Dos Campos, Brazil",Outside of US,Outside of US,BR,Brazil
+14838,SJO,"San Jose, Costa Rica",Outside of US,Outside of US,CR,Costa Rica
+14842,SJT,"San Angelo, TX",TX,Texas,US,United States
+14843,SJU,"San Juan, PR",PR,Puerto Rico,US,United States
+14848,SKA,"Spokane, WA",WA,Washington,US,United States
+14849,SKB,"St. Kitts, Saint Kitts and Nevis",Outside of US,Outside of US,KN,Saint Kitts and Nevis
+14853,SKF,"San Antonio, TX",TX,Texas,US,United States
+14855,SKJ,"Sitkinak, AK",AK,Alaska,US,United States
+14856,SKK,"Shaktoolik, AK",AK,Alaska,US,United States
+14863,SKW,"Skwentna, AK",AK,Alaska,US,United States
+14865,SKY,"Sandusky, OH",OH,Ohio,US,United States
+14869,SLC,"Salt Lake City, UT",UT,Utah,US,United States
+14871,SLE,"Salem, OR",OR,Oregon,US,United States
+14875,SLK,"Saranac Lake/Lake Placid, NY",NY,New York,US,United States
+14877,SLN,"Salina, KS",KS,Kansas,US,United States
+14879,SLP,"San Luis Potosi, Mexico",Outside of US,Outside of US,MX,Mexico
+14880,SLQ,"Sleetmute, AK",AK,Alaska,US,United States
+14884,SLU,"St. Lucia, Saint Lucia",Outside of US,Outside of US,LC,Saint Lucia
+14886,SLW,"Saltillo, Mexico",Outside of US,Outside of US,MX,Mexico
+14888,SLZ,"Sao Luiz, Brazil",Outside of US,Outside of US,BR,Brazil
+14889,SMA,"Santa Maria, Portugal",Outside of US,Outside of US,PT,Portugal
+14892,SME,"Somerset, KY",KY,Kentucky,US,United States
+14893,SMF,"Sacramento, CA",CA,California,US,United States
+14895,SMK,"St. Michael, AK",AK,Alaska,US,United States
+14896,SML,"Stella Maris, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+14897,SMN,"Salmon, ID",ID,Idaho,US,United States
+14898,SMO,"Santa Monica, CA",CA,California,US,United States
+14899,NJ3,"Somerville, NJ",NJ,New Jersey,US,United States
+14905,SMX,"Santa Maria, CA",CA,California,US,United States
+14908,SNA,"Santa Ana, CA",CA,California,US,United States
+14918,SNN,"Shannon, Ireland",Outside of US,Outside of US,IE,Ireland
+14919,SNP,"St. Paul, AK",AK,Alaska,US,United States
+14922,SNS,"Salinas/Monterey, CA",CA,California,US,United States
+14924,SNU,"Santa Clara, Cuba",Outside of US,Outside of US,CU,Cuba
+14927,SNY,"Sidney, NE",NE,Nebraska,US,United States
+14929,SOF,"Sofia, Bulgaria",Outside of US,Outside of US,BG,Bulgaria
+14938,SOP,"Pinehurst/Southern Pines, NC",NC,North Carolina,US,United States
+14941,SOU,"Southampton, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+14942,SOV,"Seldovia, AK",AK,Alaska,US,United States
+14943,SOW,"Show Low, AZ",AZ,Arizona,US,United States
+14944,SPA,"Spartanburg, SC",SC,South Carolina,US,United States
+14945,SPB,"Charlotte Amalie, VI",VI,U.S. Virgin Islands,US,United States
+14949,SPF,"Spearfish, SD",SD,South Dakota,US,United States
+14950,SPG,"Tampa, FL",FL,Florida,US,United States
+14952,SPI,"Springfield, IL",IL,Illinois,US,United States
+14954,SPM,"Spangdahlem, Germany",Outside of US,Outside of US,DE,Germany
+14955,SPN,"Saipan, TT",TT,U.S. Pacific Trust Territories and Possessions,US,United States
+14960,SPS,"Wichita Falls, TX",TX,Texas,US,United States
+14962,SPW,"Spencer, IA",IA,Iowa,US,United States
+14965,SQA,"Santa Ynez, CA",CA,California,US,United States
+14967,SQL,"San Carlos, CA",CA,California,US,United States
+14972,SQV,"Sequim, WA",WA,Washington,US,United States
+14975,SRC,"Searcy, AR",AR,Arkansas,US,United States
+14986,SRQ,"Sarasota/Bradenton, FL",FL,Florida,US,United States
+14987,SRV,"Stony River, AK",AK,Alaska,US,United States
+14992,SSB,"Christiansted, VI",VI,U.S. Virgin Islands,US,United States
+14993,SSC,"Sumter, SC",SC,South Carolina,US,United States
+14996,SSI,"Brunswick, GA",GA,Georgia,US,United States
+15008,STC,"St. Cloud, MN",MN,Minnesota,US,United States
+15012,STG,"St. George Island, AK",AK,Alaska,US,United States
+15013,STI,"Santiago, Dominican Republic",Outside of US,Outside of US,DO,Dominican Republic
+15014,STJ,"St. Joseph, MO",MO,Missouri,US,United States
+15016,STL,"St. Louis, MO",MO,Missouri,US,United States
+15018,STN,"London, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+15020,STP,"Minneapolis/St. Paul, MN",MN,Minnesota,US,United States
+15021,STQ,"St. Marys, PA",PA,Pennsylvania,US,United States
+15022,STR,"Stuttgart, Germany",Outside of US,Outside of US,DE,Germany
+15023,STS,"Santa Rosa, CA",CA,California,US,United States
+15024,STT,"Charlotte Amalie, VI",VI,U.S. Virgin Islands,US,United States
+15027,STX,"Christiansted, VI",VI,U.S. Virgin Islands,US,United States
+15030,SUA,"Stuart, FL",FL,Florida,US,United States
+15040,SUM,"Sumter, SC",SC,South Carolina,US,United States
+15041,SUN,"Sun Valley/Hailey/Ketchum, ID",ID,Idaho,US,United States
+15042,SUO,"Sunriver, OR",OR,Oregon,US,United States
+15043,SUS,"St. Louis, MO",MO,Missouri,US,United States
+15045,SUU,"Fairfield, CA",CA,California,US,United States
+15048,SUX,"Sioux City, IA",IA,Iowa,US,United States
+15049,SVA,"Savoonga, AK",AK,Alaska,US,United States
+15051,SVC,"Silver City/Hurley, NM",NM,New Mexico,US,United States
+15052,SVD,"St. Vincent, Saint Vincent and the Grenadines",Outside of US,Outside of US,VC,Saint Vincent and the Grenadines
+15054,SVH,"Statesville, NC",NC,North Carolina,US,United States
+15057,SVN,"Savannah, GA",GA,Georgia,US,United States
+15060,SVQ,"Seville, Spain",Outside of US,Outside of US,ES,Spain
+15061,SVS,"Stevens Village, AK",AK,Alaska,US,United States
+15063,SVW,"Sparrevohn, AK",AK,Alaska,US,United States
+15069,SWD,"Seward, AK",AK,Alaska,US,United States
+15070,SWF,"Newburgh/Poughkeepsie, NY",NY,New York,US,United States
+15074,SWO,"Stillwater, OK",OK,Oklahoma,US,United States
+15078,SWW,"Sweetwater, TX",TX,Texas,US,United States
+15081,SXF,"Berlin, Germany",Outside of US,Outside of US,DE,Germany
+15084,SXM,"Philipsburg, Sint Maarten",Outside of US,Outside of US,SX,Sint Maarten
+15085,SXP,"Sheldon Point, AK",AK,Alaska,US,United States
+15086,SXQ,"Soldotna, AK",AK,Alaska,US,United States
+15089,SXY,"Sidney, NY",NY,New York,US,United States
+15090,SYA,"Shemya, AK",AK,Alaska,US,United States
+15091,SYB,"Seal Bay, AK",AK,Alaska,US,United States
+15092,SYD,"Sydney, Australia",Outside of US,Outside of US,AU,Australia
+15093,SYI,"Shelbyville/Tullahoma, TN",TN,Tennessee,US,United States
+15096,SYR,"Syracuse, NY",NY,New York,US,United States
+15108,SZL,"Knob Noster, MO",MO,Missouri,US,United States
+15111,SZT,"San Cristobal, Mexico",Outside of US,Outside of US,MX,Mexico
+15113,SZX,"Shenzhen, China",Outside of US,Outside of US,CN,China
+15117,TAD,"Trinidad, CO",CO,Colorado,US,United States
+15124,TAL,"Tanana, AK",AK,Alaska,US,United States
+15125,TAM,"Tampico, Mexico",Outside of US,Outside of US,MX,Mexico
+15127,TAO,"Qingdao, China",Outside of US,Outside of US,CN,China
+15128,TAP,"Tapachula, Mexico",Outside of US,Outside of US,MX,Mexico
+15129,TAR,"Taranto, Italy",Outside of US,Outside of US,IT,Italy
+15136,TBI,"New Bight, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+15138,TBN,"Fort Leonard Wood, MO",MO,Missouri,US,United States
+15141,TBR,"Statesboro, GA",GA,Georgia,US,United States
+15142,TBS,"Tbilisi, Georgia",Outside of US,Outside of US,GE,Georgia
+15147,TCB,"Treasure Cay, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+15153,TCL,"Tuscaloosa, AL",AL,Alabama,US,United States
+15154,TCM,"Tacoma, WA",WA,Washington,US,United States
+15159,TCS,"Truth Or Consequences, NM",NM,New Mexico,US,United States
+15160,TCT,"Takotna, AK",AK,Alaska,US,United States
+15163,TDF,"Roxboro, NC",NC,North Carolina,US,United States
+15165,TDZ,"Toledo, OH",OH,Ohio,US,United States
+15167,TEB,"Teterboro, NJ",NJ,New Jersey,US,United States
+15170,TEH,"Tetlin, AK",AK,Alaska,US,United States
+15171,TEK,"Tatitlek, AK",AK,Alaska,US,United States
+15174,TER,"Lajes, Portugal",Outside of US,Outside of US,PT,Portugal
+15177,TEX,"Telluride, CO",CO,Colorado,US,United States
+15183,TFS,"Tenerife, Spain",Outside of US,Outside of US,ES,Spain
+15192,TGU,"Tegucigalpa, Honduras",Outside of US,Outside of US,HN,Honduras
+15195,THA,"Tullahoma, TN",TN,Tennessee,US,United States
+15203,THV,"York, PA",PA,Pennsylvania,US,United States
+15205,TIA,"Tirana, Albania",Outside of US,Outside of US,AL,Albania
+15210,TIJ,"Tijuana, Mexico",Outside of US,Outside of US,MX,Mexico
+15211,TIK,"Oklahoma City, OK",OK,Oklahoma,US,United States
+15215,TIQ,"Tinian, TT",TT,U.S. Pacific Trust Territories and Possessions,US,United States
+15219,TIV,"Tivat, Montenegro",Outside of US,Outside of US,ME,Montenegro
+15220,TIW,"Tacoma, WA",WA,Washington,US,United States
+15221,TIX,"Titusville, FL",FL,Florida,US,United States
+15228,TKA,"Talkeetna, AK",AK,Alaska,US,United States
+15231,TKE,"Tenakee, AK",AK,Alaska,US,United States
+15232,TKF,"Truckee, CA",CA,California,US,United States
+15235,TKI,"Tokeen, AK",AK,Alaska,US,United States
+15236,TKJ,"Tok, AK",AK,Alaska,US,United States
+15237,TKK,"Chuuk, Federated States of Micronesia",Outside of US,Outside of US,FM,Federated States of Micronesia
+15245,TLA,"Teller, AK",AK,Alaska,US,United States
+15246,TLC,"Toluca, Mexico",Outside of US,Outside of US,MX,Mexico
+15249,TLH,"Tallahassee, FL",FL,Florida,US,United States
+15250,TLJ,"Tatalina, AK",AK,Alaska,US,United States
+15252,TLL,"Tallinn, Estonia",Outside of US,Outside of US,EE,Estonia
+15254,TLN,"Toulon/Hyeres, France",Outside of US,Outside of US,FR,France
+15255,TLR,"Tulare, CA",CA,California,US,United States
+15256,TLS,"Toulouse, France",Outside of US,Outside of US,FR,France
+15257,TLT,"Tuluksak, AK",AK,Alaska,US,United States
+15258,TLV,"Tel Aviv, Israel",Outside of US,Outside of US,IL,Israel
+15259,TMA,"Tifton, GA",GA,Georgia,US,United States
+15260,TMB,"Miami, FL",FL,Florida,US,United States
+15271,TN2,"Sparta, TN",TN,Tennessee,US,United States
+15275,TN6,"Dyersburg, TN",TN,Tennessee,US,United States
+15276,TN7,"Winchester, TN",TN,Tennessee,US,United States
+15277,TNA,"Jinan, China",Outside of US,Outside of US,CN,China
+15278,TNC,"Tin City, AK",AK,Alaska,US,United States
+15282,TNK,"Tununak, AK",AK,Alaska,US,United States
+15286,TNT,"Miami, FL",FL,Florida,US,United States
+15289,TOA,"Torrance, CA",CA,California,US,United States
+15293,TOG,"Togiak, AK",AK,Alaska,US,United States
+15295,TOL,"Toledo, OH",OH,Ohio,US,United States
+15299,TOR,"Torrington, WY",WY,Wyoming,US,United States
+15304,TPA,"Tampa, FL",FL,Florida,US,United States
+15306,TPE,"Taipei, Taiwan",Outside of US,Outside of US,TW,Taiwan
+15307,TPF,"Tampa, FL",FL,Florida,US,United States
+15310,TPL,"Temple, TX",TX,Texas,US,United States
+15315,TPS,"Trapani/Marsala, Italy",Outside of US,Outside of US,IT,Italy
+15317,TRC,"Torreon, Mexico",Outside of US,Outside of US,MX,Mexico
+15323,TRI,"Bristol/Johnson City/Kingsport, TN",TN,Tennessee,US,United States
+15325,TRM,"Thermal, CA",CA,California,US,United States
+15339,TSG,"Tanacross, AK",AK,Alaska,US,United States
+15342,TSM,"Taos, NM",NM,New Mexico,US,United States
+15343,TSN,"Tianjin, China",Outside of US,Outside of US,CN,China
+15344,TSP,"Tehachapi, CA",CA,California,US,United States
+15346,TSS,"New York, NY",NY,New York,US,United States
+15348,TSV,"Townsville, Australia",Outside of US,Outside of US,AU,Australia
+15351,TTD,"Troutdale, OR",OR,Oregon,US,United States
+15356,TTN,"Trenton, NJ",NJ,New Jersey,US,United States
+15363,TUC,"Tucuman, Argentina",Outside of US,Outside of US,AR,Argentina
+15370,TUL,"Tulsa, OK",OK,Oklahoma,US,United States
+15374,TUP,"Tupelo, MS",MS,Mississippi,US,United States
+15376,TUS,"Tucson, AZ",AZ,Arizona,US,United States
+15380,TVC,"Traverse City, MI",MI,Michigan,US,United States
+15381,TVF,"Thief River Falls, MN",MN,Minnesota,US,United States
+15382,TVI,"Thomasville, GA",GA,Georgia,US,United States
+15383,TVL,"Lake Tahoe, CA",CA,California,US,United States
+15385,TWA,"Twin Hills, AK",AK,Alaska,US,United States
+15387,TWD,"Port Townsend, WA",WA,Washington,US,United States
+15389,TWF,"Twin Falls, ID",ID,Idaho,US,United States
+15393,TX1,"Mesquite, TX",TX,Texas,US,United States
+15396,TX4,"Ballinger, TX",TX,Texas,US,United States
+15398,TX6,"Horseshoe Bay, TX",TX,Texas,US,United States
+15401,TXK,"Texarkana, AR",AR,Arkansas,US,United States
+15402,TXL,"Berlin, Germany",Outside of US,Outside of US,DE,Germany
+15406,TYE,"Tyonek, AK",AK,Alaska,US,United States
+15411,TYR,"Tyler, TX",TX,Texas,US,United States
+15412,TYS,"Knoxville, TN",TN,Tennessee,US,United States
+15417,TZN,"South Andos, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+15419,UAB,"Adana, Turkey",Outside of US,Outside of US,TR,Turkey
+15422,UAM,"Guam, TT",TT,U.S. Pacific Trust Territories and Possessions,US,United States
+15427,UBF,"Chatham, MA",MA,Massachusetts,US,United States
+15433,UCY,"Union City, TN",TN,Tennessee,US,United States
+15434,UDD,"Bermuda Dunes, CA",CA,California,US,United States
+15435,UDG,"Darlington, SC",SC,South Carolina,US,United States
+15440,UES,"Waukesha, WI",WI,Wisconsin,US,United States
+15444,UGB,"Pilot Point, AK",AK,Alaska,US,United States
+15446,UGI,"Uganik, AK",AK,Alaska,US,United States
+15447,UGN,"Waukegan, IL",IL,Illinois,US,United States
+15448,UGS,"Ugashik, AK",AK,Alaska,US,United States
+15454,UIN,"Quincy, IL",IL,Illinois,US,United States
+15455,UIO,"Quito, Ecuador",Outside of US,Outside of US,EC,Ecuador
+15458,UKI,"Ukiah, CA",CA,California,US,United States
+15463,ULN,"Ulan Bator, Mongolia",Outside of US,Outside of US,MN,Mongolia
+15465,ULS,"Ulysses, KS",KS,Kansas,US,United States
+15472,UMT,"Umiat, AK",AK,Alaska,US,United States
+15477,UNI,"Union Island, Saint Vincent and the Grenadines",Outside of US,Outside of US,VC,Saint Vincent and the Grenadines
+15478,UNK,"Unalakleet, AK",AK,Alaska,US,United States
+15481,UOX,"Oxford, MS",MS,Mississippi,US,United States
+15483,UPN,"Uruapan, Mexico",Outside of US,Outside of US,MX,Mexico
+15493,USH,"Ushuaia, Argentina",Outside of US,Outside of US,AR,Argentina
+15497,UST,"St. Augustine, FL",FL,Florida,US,United States
+15498,UT1,"Heber, UT",UT,Utah,US,United States
+15502,UTM,"Tunica, MS",MS,Mississippi,US,United States
+15504,UTO,"Utopia, AK",AK,Alaska,US,United States
+15505,UTP,"Utapao, Thailand",Outside of US,Outside of US,TH,Thailand
+15508,UUK,"Kuparuk, AK",AK,Alaska,US,United States
+15511,UVA,"Uvalde, TX",TX,Texas,US,United States
+15513,UVF,"St. Lucia, Saint Lucia",Outside of US,Outside of US,LC,Saint Lucia
+15525,UXK,"Petaluma, CA",CA,California,US,United States
+15529,UXO,"Fitchburg, MA",MA,Massachusetts,US,United States
+15532,UXR,"Monument Valley, UT",UT,Utah,US,United States
+15534,LPR,"Lorain/Elyria, OH",OH,Ohio,US,United States
+15548,VA4,"Leesburg, VA",VA,Virginia,US,United States
+15550,VAD,"Valdosta, GA",GA,Georgia,US,United States
+15554,VAK,"Chevak, AK",AK,Alaska,US,United States
+15561,VBG,"Lompoc, CA",CA,California,US,United States
+15565,VCB,"View Cove, AK",AK,Alaska,US,United States
+15566,VCE,"Venice, Italy",Outside of US,Outside of US,IT,Italy
+15567,VCP,"Sao Paulo, Brazil",Outside of US,Outside of US,BR,Brazil
+15569,VCT,"Victoria, TX",TX,Texas,US,United States
+15570,VCV,"Victorville, CA",CA,California,US,United States
+15574,VDI,"Vidalia, GA",GA,Georgia,US,United States
+15579,VDZ,"Valdez, AK",AK,Alaska,US,United States
+15581,VEE,"Venetie, AK",AK,Alaska,US,United States
+15582,VEL,"Vernal, UT",UT,Utah,US,United States
+15584,VER,"Veracruz, Mexico",Outside of US,Outside of US,MX,Mexico
+15589,VGT,"Las Vegas, NV",NV,Nevada,US,United States
+15595,VIE,"Vienna, Austria",Outside of US,Outside of US,AT,Austria
+15598,VIJ,"Virgin Gorda, British Virgin Islands",Outside of US,Outside of US,VG,British Virgin Islands
+15599,VIK,"Kavik River, AK",AK,Alaska,US,United States
+15601,VIS,"Visalia, CA",CA,California,US,United States
+15604,VKO,"Moscow, Russia",Outside of US,Outside of US,RU,Russia
+15607,VLD,"Valdosta, GA",GA,Georgia,US,United States
+15608,VLI,"Port Vila, Vanuatu",Outside of US,Outside of US,VU,Vanuatu
+15615,VNC,"Venice, FL",FL,Florida,US,United States
+15618,VNY,"Van Nuys, CA",CA,California,US,United States
+15620,VOK,"Camp Douglas, WI",WI,Wisconsin,US,United States
+15624,VPS,"Valparaiso, FL",FL,Florida,US,United States
+15626,VQS,"Vieques, PR",PR,Puerto Rico,US,United States
+15627,VRA,"Varadero, Cuba",Outside of US,Outside of US,CU,Cuba
+15628,VRB,"Vero Beach, FL",FL,Florida,US,United States
+15631,VRN,"Verona, Italy",Outside of US,Outside of US,IT,Italy
+15632,VSA,"Villahermosa, Mexico",Outside of US,Outside of US,MX,Mexico
+15634,VSF,"Springfield, VT",VT,Vermont,US,United States
+15637,VTN,"Valentine, NE",NE,Nebraska,US,United States
+15640,VUO,"Vancouver, WA",WA,Washington,US,United States
+15643,VVI,"Santa Cruz, Bolivia",Outside of US,Outside of US,BO,Bolivia
+15646,VWA,"Headland, AL",AL,Alabama,US,United States
+15648,VWC,"Gallatin, TN",TN,Tennessee,US,United States
+15649,VWD,"Hanford, CA",CA,California,US,United States
+15650,VWE,"Chelan, WA",WA,Washington,US,United States
+15656,VWK,"Saratoga Springs, NY",NY,New York,US,United States
+15659,VWN,"Parker, AZ",AZ,Arizona,US,United States
+15660,VWO,"Arlington, WA",WA,Washington,US,United States
+15664,VWS,"Wichita, KS",KS,Kansas,US,United States
+15668,VWW,"Deer Lodge, MT",MT,Montana,US,United States
+15669,VWX,"Hondo, TX",TX,Texas,US,United States
+15681,VZF,"Afognak Straits, AK",AK,Alaska,US,United States
+15687,VZL,"Los Alamitos, CA",CA,California,US,United States
+15700,VZY,"Katmai Lodge, AK",AK,Alaska,US,United States
+15706,WA5,"Winthrop, WA",WA,Washington,US,United States
+15707,WA6,"Stehekin, WA",WA,Washington,US,United States
+15709,WAA,"Wales, AK",AK,Alaska,US,United States
+15718,WAW,"Warsaw, Poland",Outside of US,Outside of US,PL,Poland
+15721,WBB,"Stebbins, AK",AK,Alaska,US,United States
+15725,WBQ,"Beaver, AK",AK,Alaska,US,United States
+15731,WCR,"Chandalar, AK",AK,Alaska,US,United States
+15732,WDB,"Wide Bay, AK",AK,Alaska,US,United States
+15734,WDG,"Enid, OK",OK,Oklahoma,US,United States
+15737,WDR,"Winder, GA",GA,Georgia,US,United States
+15741,WFB,"Ketchikan, AK",AK,Alaska,US,United States
+15749,WGO,"Winchester, VA",VA,Virginia,US,United States
+15754,WHD,"Hyder, AK",AK,Alaska,US,United States
+15769,WJF,"Lancaster, CA",CA,California,US,United States
+15774,WKK,"Aleknagik, AK",AK,Alaska,US,United States
+15778,WKR,"Walker's Cay, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+15779,WKV,"Philadelphia, PA",PA,Pennsylvania,US,United States
+15783,WLG,"Wellington, New Zealand",Outside of US,Outside of US,NZ,New Zealand
+15785,WLK,"Selawik, AK",AK,Alaska,US,United States
+15791,WMC,"Winnemucca, NV",NV,Nevada,US,United States
+15792,WMH,"Mountain Home, AR",AR,Arkansas,US,United States
+15793,WMK,"Meyers Chuck, AK",AK,Alaska,US,United States
+15794,WMO,"White Mountain, AK",AK,Alaska,US,United States
+15798,WNA,"Napakiak, AK",AK,Alaska,US,United States
+15807,WOW,"Willow, AK",AK,Alaska,US,United States
+15815,WQC,"Hamilton, MT",MT,Montana,US,United States
+15825,CWF,"Lake Charles, LA",LA,Louisiana,US,United States
+15836,WQX,"Kiavak, AK",AK,Alaska,US,United States
+15838,WQZ,"Chignik Lake, AK",AK,Alaska,US,United States
+15839,WRB,"Macon, GA",GA,Georgia,US,United States
+15841,WRG,"Wrangell, AK",AK,Alaska,US,United States
+15842,WRI,"Fort Dix, NJ",NJ,New Jersey,US,United States
+15847,WSG,"Washington, PA",PA,Pennsylvania,US,United States
+15848,WSH,"Shirley, NY",NY,New York,US,United States
+15852,WSM,"Wiseman, AK",AK,Alaska,US,United States
+15853,WSN,"South Naknek, AK",AK,Alaska,US,United States
+15855,WST,"Westerly, RI",RI,Rhode Island,US,United States
+15856,WSX,"Westsound, WA",WA,Washington,US,United States
+15860,WTD,"West End, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+15861,WTK,"Noatak, AK",AK,Alaska,US,United States
+15862,WTL,"Tuntutuliak, AK",AK,Alaska,US,United States
+15866,WTT,"Whittier, AK",AK,Alaska,US,United States
+15868,WUH,"Wuhan, China",Outside of US,Outside of US,CN,China
+15872,WUX,"Wuxi, China",Outside of US,Outside of US,CN,China
+15877,WVI,"Watsonville, CA",CA,California,US,United States
+15879,WVL,"Augusta/Waterville, ME",ME,Maine,US,United States
+15881,WWA,"Wasilla, AK",AK,Alaska,US,United States
+15882,WWD,"Cape May, NJ",NJ,New Jersey,US,United States
+15885,WWP,"Whale Pass, AK",AK,Alaska,US,United States
+15886,WWR,"Woodward, OK",OK,Oklahoma,US,United States
+15887,WWT,"Newtok, AK",AK,Alaska,US,United States
+15897,WYS,"West Yellowstone, MT",MT,Montana,US,United States
+15906,XCR,"Chalons-En-Champagne, France",Outside of US,Outside of US,FR,France
+15917,XMN,"Xiamen, China",Outside of US,Outside of US,CN,China
+15919,XNA,"Fayetteville, AR",AR,Arkansas,US,United States
+15923,XPL,"Comayagua, Honduras",Outside of US,Outside of US,HN,Honduras
+15939,XWF,"Jerome, ID",ID,Idaho,US,United States
+15941,XWH,"Aztec, NM",NM,New Mexico,US,United States
+15950,IWK,"Iwakuni, Japan",Outside of US,Outside of US,JP,Japan
+15956,XWW,"Driggs, ID",ID,Idaho,US,United States
+15964,XXE,"Lakewood, NJ",NJ,New Jersey,US,United States
+15971,XXN,"Willits, CA",CA,California,US,United States
+15973,XXP,"Lakeport, CA",CA,California,US,United States
+15975,XXR,"Mariposa, CA",CA,California,US,United States
+15976,XXS,"Creswell, OR",OR,Oregon,US,United States
+15977,XXT,"Polson, MT",MT,Montana,US,United States
+15978,XXU,"Ashland, OR",OR,Oregon,US,United States
+15979,XXV,"Decatur, WA",WA,Washington,US,United States
+15980,LCQ,"Lake City, FL",FL,Florida,US,United States
+15982,XXY,"Fortuna, CA",CA,California,US,United States
+15991,YAK,"Yakutat, AK",AK,Alaska,US,United States
+15994,YAP,"Yap, Federated States of Micronesia",Outside of US,Outside of US,FM,Federated States of Micronesia
+15999,YAZ,"Tofino, Canada",BC,British Columbia,CA,Canada
+16002,YBC,"Baie Comeau, Canada",QC,Quebec,CA,Canada
+16004,YBG,"Saguenay, Canada",QC,Quebec,CA,Canada
+16007,YBL,"Campbell River, Canada",BC,British Columbia,CA,Canada
+16009,YBR,"Brandon, Canada",MB,Manitoba,CA,Canada
+16016,YCD,"Nanaimo, Canada",BC,British Columbia,CA,Canada
+16018,YCG,"Castlegar/Nelson/Trail, Canada",BC,British Columbia,CA,Canada
+16019,YCH,"Miramichi, Canada",NB,New Brunswick,CA,Canada
+16022,YCL,"Charlo, Canada",NB,New Brunswick,CA,Canada
+16023,YCM,"St. Catharines, Canada",ON,Ontario,CA,Canada
+16033,YDN,"Dauphin, Canada",MB,Manitoba,CA,Canada
+16036,YDS,"Desolation Sound, Canada",BC,British Columbia,CA,Canada
+16042,YEG,"Edmonton, Canada",AB,Alberta,CA,Canada
+16045,YEM,"Manitowaning, Canada",ON,Ontario,CA,Canada
+16050,YFB,"Iqaluit, Canada",NU,Nunavut Territory,CA,Canada
+16058,YGG,"Ganges Harbor, Canada",BC,British Columbia,CA,Canada
+16061,YGK,"Kingston, Canada",ON,Ontario,CA,Canada
+16064,YGP,"Gaspe, Canada",QC,Quebec,CA,Canada
+16074,YHD,"Dryden, Canada",ON,Ontario,CA,Canada
+16078,YHM,"Hamilton, Canada",ON,Ontario,CA,Canada
+16083,YHU,"Montreal, Canada",QC,Quebec,CA,Canada
+16085,YHZ,"Halifax, Canada",NS,Nova Scotia,CA,Canada
+16088,YIG,"Big Bay Marina, Canada",BC,British Columbia,CA,Canada
+16091,YIP,"Detroit, MI",MI,Michigan,US,United States
+16095,YJT,"Stephenville, Canada",NL,Newfoundland and Labrador,CA,Canada
+16096,YKA,"Kamloops, Canada",BC,British Columbia,CA,Canada
+16097,YKF,"Kitchener, Canada",ON,Ontario,CA,Canada
+16101,YKM,"Yakima, WA",WA,Washington,US,United States
+16106,YKZ,"Toronto, Canada",ON,Ontario,CA,Canada
+16115,YLW,"Kelowna, Canada",BC,British Columbia,CA,Canada
+16120,YML,"Murray Bay, Canada",QC,Quebec,CA,Canada
+16121,YMM,"Fort McMurray, Canada",AB,Alberta,CA,Canada
+16128,YMX,"Montreal, Canada",QC,Quebec,CA,Canada
+16133,YNG,"Youngstown/Warren, OH",OH,Ohio,US,United States
+16141,YOC,"Old Crow, Canada",YT,Yukon Territory,CA,Canada
+16142,YOD,"Cold Lake, Canada",AB,Alberta,CA,Canada
+16146,YOO,"Oshawa, Canada",ON,Ontario,CA,Canada
+16149,YOW,"Ottawa, Canada",ON,Ontario,CA,Canada
+16154,YPN,"Port Menier, Canada",QC,Quebec,CA,Canada
+16156,YPQ,"Peterborough, Canada",ON,Ontario,CA,Canada
+16157,YPR,"Digby Island, Canada",BC,British Columbia,CA,Canada
+16158,YPS,"Port Hawkesbury, Canada",NS,Nova Scotia,CA,Canada
+16159,YPW,"Powell River, Canada",BC,British Columbia,CA,Canada
+16162,YQA,"Muskoka, Canada",ON,Ontario,CA,Canada
+16163,YQB,"Quebec, Canada",QC,Quebec,CA,Canada
+16165,YQF,"Red Deer, Canada",AB,Alberta,CA,Canada
+16166,YQG,"Windsor, Canada",ON,Ontario,CA,Canada
+16167,YQH,"Watson Lake, Canada",YT,Yukon Territory,CA,Canada
+16169,YQK,"Kenora, Canada",ON,Ontario,CA,Canada
+16171,YQM,"Moncton, Canada",NB,New Brunswick,CA,Canada
+16172,YQQ,"Comox, Canada",BC,British Columbia,CA,Canada
+16173,YQR,"Regina, Canada",SK,Saskatchewan,CA,Canada
+16174,YQT,"Thunder Bay, Canada",ON,Ontario,CA,Canada
+16178,YQX,"Gander, Canada",NL,Newfoundland and Labrador,CA,Canada
+16179,YQY,"Sydney, Canada",NS,Nova Scotia,CA,Canada
+16186,YRQ,"Trois Rivieres, Canada",QC,Quebec,CA,Canada
+16189,YSC,"Sherbrooke, Canada",QC,Quebec,CA,Canada
+16208,YTM,"La Macaza, Canada",QC,Quebec,CA,Canada
+16213,YTR,"Trenton, Canada",ON,Ontario,CA,Canada
+16214,YTS,"Timmins, Canada",ON,Ontario,CA,Canada
+16215,YTZ,"Toronto, Canada",ON,Ontario,CA,Canada
+16217,YUL,"Montreal, Canada",QC,Quebec,CA,Canada
+16218,YUM,"Yuma, AZ",AZ,Arizona,US,United States
+16220,YUX,"Hall Beach, Canada",NU,Nunavut Territory,CA,Canada
+16223,YVB,"Bonaventure, Canada",QC,Quebec,CA,Canada
+16229,YVR,"Vancouver, Canada",BC,British Columbia,CA,Canada
+16232,YWG,"Winnipeg, Canada",MB,Manitoba,CA,Canada
+16233,YWH,"Victoria, Canada",BC,British Columbia,CA,Canada
+16242,YXE,"Saskatoon, Canada",SK,Saskatchewan,CA,Canada
+16251,YXT,"Terrace, Canada",BC,British Columbia,CA,Canada
+16252,YXU,"London, Canada",ON,Ontario,CA,Canada
+16253,YXX,"Abbotsford, Canada",BC,British Columbia,CA,Canada
+16254,YXY,"Whitehorse, Canada",YT,Yukon Territory,CA,Canada
+16256,YYB,"North Bay, Canada",ON,Ontario,CA,Canada
+16257,YYC,"Calgary, Canada",AB,Alberta,CA,Canada
+16258,YYD,"Smithers, Canada",BC,British Columbia,CA,Canada
+16261,YYG,"Charlottetown, Canada",PE,Prince Edward Island,CA,Canada
+16263,YYJ,"Victoria, Canada",BC,British Columbia,CA,Canada
+16267,YYR,"Goose Bay, Canada",NL,Newfoundland and Labrador,CA,Canada
+16268,YYT,"St. John's, Canada",NL,Newfoundland and Labrador,CA,Canada
+16271,YYZ,"Toronto, Canada",ON,Ontario,CA,Canada
+16273,YZF,"Yellowknife, Canada",NT,Northwest Territories,CA,Canada
+16278,YZT,"Port Hardy, Canada",BC,British Columbia,CA,Canada
+16279,YZV,"Sept-Iles, Canada",QC,Quebec,CA,Canada
+16286,ZAZ,"Zaragoza, Spain",Outside of US,Outside of US,ES,Spain
+16288,ZBF,"Bathurst, Canada",NB,New Brunswick,CA,Canada
+16290,ZBM,"Bromont, Canada",QC,Quebec,CA,Canada
+16293,ZCL,"Zacatecas, Mexico",Outside of US,Outside of US,MX,Mexico
+16304,ZIH,"Ixtapa/Zihuatanejo, Mexico",Outside of US,Outside of US,MX,Mexico
+16306,ZLO,"Manzanillo, Mexico",Outside of US,Outside of US,MX,Mexico
+16310,ZNA,"Nanaimo, Canada",BC,British Columbia,CA,Canada
+16311,ZNC,"Nyac, AK",AK,Alaska,US,United States
+16321,ZRH,"Zurich, Switzerland",Outside of US,Outside of US,CH,Switzerland
+16322,ZSA,"San Salvador, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+16334,ZXA,"Rota, Spain",Outside of US,Outside of US,ES,Spain
+16335,ZXB,"Albuquerque, NM",NM,New Mexico,US,United States
+16336,ZXC,"Gasquet, CA",CA,California,US,United States
+16339,ZXF,"Illinois Creek, AK",AK,Alaska,US,United States
+16340,ZXH,"Chomondely Sound, AK",AK,Alaska,US,United States
+16352,ZXT,"Cloverdale, CA",CA,California,US,United States
+16353,ZXU,"North Kingstown, RI",RI,Rhode Island,US,United States
+16361,ZZV,"Zanesville, OH",OH,Ohio,US,United States
+16363,FHB,"Fernandina Beach, FL",FL,Florida,US,United States
+16390,BVU,"Beluga, AK",AK,Alaska,US,United States
+16422,GUF,"Gulf Shores, AL",AL,Alabama,US,United States
+16425,NY4,"Potsdam, NY",NY,New York,US,United States
+16428,L41,"Marble Canyon, AZ",AZ,Arizona,US,United States
+16429,6B0,"Middlebury, VT",VT,Vermont,US,United States
+16441,CT1,"Plainville, CT",CT,Connecticut,US,United States
+16442,NY5,"Millbrook, NY",NY,New York,US,United States
+16443,CSL,"Cabo San Lucas, Mexico",Outside of US,Outside of US,MX,Mexico
+16445,ID1,"Driggs, ID",ID,Idaho,US,United States
+16453,SD2,"Gregory, SD",SD,South Dakota,US,United States
+16454,VGC,"Hamilton, NY",NY,New York,US,United States
+16456,DWC,"Jebel Ali, United Arab Emirates",Outside of US,Outside of US,AE,United Arab Emirates
+16463,MD1,"Michellville, MD",MD,Maryland,US,United States
+16468,MS3,"Philadelphia, MS",MS,Mississippi,US,United States
+16476,HYD,"Hyderabad, India",Outside of US,Outside of US,IN,India
+16477,QRO,"Queretaro, Mexico",Outside of US,Outside of US,MX,Mexico
+16478,YLS,"Lebel-sur-Quevillon, Canada",QC,Quebec,CA,Canada
+16479,MA2,"Montague, MA",MA,Massachusetts,US,United States
+16487,MA3,"Taunton, MA",MA,Massachusetts,US,United States
+16491,PNN,"Princeton, ME",ME,Maine,US,United States
+16495,CT2,"Simsbury, CT",CT,Connecticut,US,United States
+16496,WV2,"Logan, WV",WV,West Virginia,US,United States
+16497,AL6,"Fairhope, AL",AL,Alabama,US,United States
+16498,NY7,"Skaneateles, NY",NY,New York,US,United States
+16500,MN5,"Red Wing, MN",MN,Minnesota,US,United States
+16503,ME2,"Islesboro, ME",ME,Maine,US,United States
+16504,PA3,"Honesdale, PA",PA,Pennsylvania,US,United States
+16509,TN9,"Sevierville, TN",TN,Tennessee,US,United States
+16510,NC7,"Beaufort, NC",NC,North Carolina,US,United States
+16518,YCE,"Centralia, Canada",ON,Ontario,CA,Canada
+16519,PA4,"Carlisle, PA",PA,Pennsylvania,US,United States
+16520,DE2,"Middletown, DE",DE,Delaware,US,United States
+16523,YPD,"Parry Sound, Canada",ON,Ontario,CA,Canada
+16525,PA5,"West Chester, PA",PA,Pennsylvania,US,United States
+16526,MA4,"Marshfield, MA",MA,Massachusetts,US,United States
+16527,MVC,"Monroeville, AL",AL,Alabama,US,United States
+16528,VA5,"Richmond, VA",VA,Virginia,US,United States
+16533,JBQ,"Santo Domingo, Dominican Republic",Outside of US,Outside of US,DO,Dominican Republic
+16537,LA1,"Notchitoches, LA",LA,Louisiana,US,United States
+16540,ME3,"Belfast, ME",ME,Maine,US,United States
+16541,OBE,"Okeechobee, FL",FL,Florida,US,United States
+16542,RBW,"Walterboro, SC",SC,South Carolina,US,United States
+16543,MA5,"Northampton, MA",MA,Massachusetts,US,United States
+16545,YBQ,"Telegraph Harbour, Canada",BC,British Columbia,CA,Canada
+16548,NH1,"Hampton, NH",NH,New Hampshire,US,United States
+16552,NC8,"Burlington, NC",NC,North Carolina,US,United States
+16553,ME4,"Oxford, ME",ME,Maine,US,United States
+16555,JWY,"Midlothian/Waxahachie, TX",TX,Texas,US,United States
+16558,LA2,"Hammond, LA",LA,Louisiana,US,United States
+16560,OR4,"Bend, OR",OR,Oregon,US,United States
+16566,NV2,"Jean, NV",NV,Nevada,US,United States
+16567,7AK,"Akun, AK",AK,Alaska,US,United States
+16568,NJ4,"Ocean City, NJ",NJ,New Jersey,US,United States
+16569,NY9,"Hornell, NY",NY,New York,US,United States
+16571,1NY,"Penn Yan, NY",NY,New York,US,United States
+16582,GA5,"Thomson, GA",GA,Georgia,US,United States
+16583,SC5,"Summerville, SC",SC,South Carolina,US,United States
+16584,AK7,"Rampart, AK",AK,Alaska,US,United States
+16593,HFE,"Hefei, China",Outside of US,Outside of US,CN,China
+16601,BC3,"Bliss Landing, Canada",BC,British Columbia,CA,Canada
+16603,DHB,"Deer Harbor, WA",WA,Washington,US,United States
+16604,BC5,"Dent Island, Canada",BC,British Columbia,CA,Canada
+16609,BC9,"Mink Island, Canada",BC,British Columbia,CA,Canada
+16627,ME5,"Bethel, ME",ME,Maine,US,United States
+16635,NM1,"Belen, NM",NM,New Mexico,US,United States
+16643,PA6,"Pittsburgh, PA",PA,Pennsylvania,US,United States
+16651,WA1,"Camp Orkila Eastsound, WA",WA,Washington,US,United States
+16654,WA3,"Shaw Island, WA",WA,Washington,US,United States
+16656,CT5,"Danielson, CT",CT,Connecticut,US,United States
+16658,GLE,"Gainesville, TX",TX,Texas,US,United States
+16661,NE3,"York, NE",NE,Nebraska,US,United States
+16662,AA2,"Naknek-1, AK",AK,Alaska,US,United States
+16663,IN6,"Jeffersonville, IN",IN,Indiana,US,United States
+16666,DE3,"Dover-Cheswold, DE",DE,Delaware,US,United States
+16668,A1K,"Deadhorse1, AK",AK,Alaska,US,United States
+16676,NKT,"Sirnak, Turkey",Outside of US,Outside of US,TR,Turkey
+16679,MRF,"Marfa, TX",TX,Texas,US,United States
+16680,N1Y,"Canandaigua, NY",NY,New York,US,United States
+16681,CT6,"East Haddam, CT",CT,Connecticut,US,United States
+16682,GTY,"Gettysburg, PA",PA,Pennsylvania,US,United States
+16684,PA8,"Collegeville, PA",PA,Pennsylvania,US,United States
+16704,NY3,"Brockport, NY",NY,New York,US,United States
+16710,MD2,"Indian Head, MD",MD,Maryland,US,United States
+16711,NV4,"Reno, NV",NV,Nevada,US,United States
+16715,N2Y,"Seneca Falls, NY",NY,New York,US,United States
+16719,N2C,"Monroe, NC",NC,North Carolina,US,United States
+16720,A6K,"Fairbanks1, AK",AK,Alaska,US,United States
+16724,N3Y,"Ticonderoga, NY",NY,New York,US,United States
+16725,NV5,"Gerlach, NV",NV,Nevada,US,United States
+16727,NJ7,"New Jersey, NJ",NJ,New Jersey,US,United States
+16728,N3C,"Franklin, NC",NC,North Carolina,US,United States
+16729,O2H,"Mount Vernon, OH",OH,Ohio,US,United States
+16741,T1N,"Selmer, TN",TN,Tennessee,US,United States
+16745,T6X,"Houston, TX",TX,Texas,US,United States
+16746,GNT,"Grants, NM",NM,New Mexico,US,United States
+16748,DYL,"Doylestown, PA",PA,Pennsylvania,US,United States
+16750,N4C,"Sanford, NC",NC,North Carolina,US,United States
+16751,FL7,"Placida, FL",FL,Florida,US,United States
+16755,T8X,"Dallas, TX",TX,Texas,US,United States
+16764,FME,"Fort Meade, MD",MD,Maryland,US,United States
+16771,RNH,"New Richmond, WI",WI,Wisconsin,US,United States
+16774,VA8,"Richmond, VA",VA,Virginia,US,United States
+16776,T2N,"Clevland, TN",TN,Tennessee,US,United States
+16777,P1A,"Farmington, PA",PA,Pennsylvania,US,United States
+16782,DSS,"Dakar Thies, Senegal",Outside of US,Outside of US,SN,Senegal
+16783,GA7,"Greensboro, GA",GA,Georgia,US,United States
+16787,RNM,"Ramona, CA",CA,California,US,United States
+16789,VHN,"Van Horn, TX",TX,Texas,US,United States
+16791,TRL,"Terrell, TX",TX,Texas,US,United States
+16795,MN7,"Minneapolis, MN",MN,Minnesota,US,United States
+16803,A5K,"Paxson, AK",AK,Alaska,US,United States
+16807,MA6,"Hopedale, MA",MA,Massachusetts,US,United States
+16810,A2L,"Fort Payne, AL",AL,Alabama,US,United States
+16813,NH4,"Moultonboro, NH",NH,New Hampshire,US,United States
+16815,N4Y,"Southampton, NY",NY,New York,US,United States
+16816,FL8,"Deland, FL",FL,Florida,US,United States
+16817,NV6,"Pahrump, NV",NV,Nevada,US,United States
+16821,MI7,"South Haven, MI",MI,Michigan,US,United States
+16823,CO6,"Buena, CO",CO,Colorado,US,United States
+16825,TYM,"Exuma, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+16829,LNA,"West Palm Beach, FL",FL,Florida,US,United States
+16830,2NY,"Port Washington, NY",NY,New York,US,United States
+16831,3NY,"Suffolk, NY",NY,New York,US,United States
+16832,NYS,"New York, NY",NY,New York,US,United States
+16835,BS1,"Goat Cay, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+16836,BS2,"Pig Beach, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+16838,VA9,"Norfolk, VA",VA,Virginia,US,United States
+16839,HNB,"Huntingburg, IN",IN,Indiana,US,United States
+16843,1CA,"Rio Vista, CA",CA,California,US,United States
+16845,BS3,"Baker Bay, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+16846,FL9,"Lake Wales, FL",FL,Florida,US,United States
+16848,2GA,"Camilla, GA",GA,Georgia,US,United States
+16852,NLU,"Zumpango, Mexico",Outside of US,Outside of US,MX,Mexico
+16853,1TX,"Dumas, TX",TX,Texas,US,United States
+16856,VJI,"Abingdon, VA",VA,Virginia,US,United States
+16857,SSF,"San Antonio, TX",TX,Texas,US,United States
+16858,ISL,"Istanbul, Turkey",Outside of US,Outside of US,TR,Turkey
+16863,N5Y,"South Bethlehem, NY",NY,New York,US,United States
+16867,N6Y,"Ellenville, NY",NY,New York,US,United States
+16869,XWA,"Williston, ND",ND,North Dakota,US,United States
+16871,CT7,"Chester, CT",CT,Connecticut,US,United States
+16876,SC6,"Charleston, SC",SC,South Carolina,US,United States
+16879,T4X,"Llano, TX",TX,Texas,US,United States
+16883,N7C,"Ahoskie, NC",NC,North Carolina,US,United States
+16895,MNQ," Tosontsengel, Mongolia",Outside of US,Outside of US,MN,Mongolia
+16897,2TX,"Brenham, TX",TX,Texas,US,United States
+16901,2FL,"West Palm Beach, FL",FL,Florida,US,United States
+16902,BMT,"Beaumont, TX",TX,Texas,US,United States
+16903,ME8,"Eastport, ME",ME,Maine,US,United States
+16904,4NY,"Millbrook, NY",NY,New York,US,United States
+16905,UT3,"Spanish Fork, UT",UT,Utah,US,United States
+16906,ID3,"Sandpoint, ID",ID,Idaho,US,United States
+16908,1WA,"Deer Park, WA",WA,Washington,US,United States
+16909,5TX,"Edinburg, TX",TX,Texas,US,United States
+16910,LOW,"Louisa, VA",VA,Virginia,US,United States
+16911,ID4,"Caldwell, ID",ID,Idaho,US,United States
+16913,4GA,"Atlanta, GA",GA,Georgia,US,United States
+16914,4CL,"El Mirage, CA",CA,California,US,United States
+16915,MO4,"Clinton, MO",MO,Missouri,US,United States
+16917,HPY,"Baytown, TX",TX,Texas,US,United States
+16918,CO7,"Meeker, CO",CO,Colorado,US,United States
+16919,7TX,"Graford, TX",TX,Texas,US,United States
+16922,IN9,"Washington, IN",IN,Indiana,US,United States
+16923,1AK,"Mertarvik, AK",AK,Alaska,US,United States
+16924,N2J,"Reading, NJ",NJ,New Jersey,US,United States
+16925,5NY,"Malone, NY",NY,New York,US,United States
+16926,8TX,"Waco, TX",TX,Texas,US,United States
+16927,N8C,"Oak Island, NC",NC,North Carolina,US,United States
+16928,YQS,"St Thomas, Canada",ON,Ontario,CA,Canada
+16934,2NC,"Asheboro, NC",NC,North Carolina,US,United States
+16935,1OH,"Willoughby, OH",OH,Ohio,US,United States
+16936,MT3,"Ennis, MT",MT,Montana,US,United States
+16938,ETB,"West Bend, WI",WI,Wisconsin,US,United States
+16939,QC2,"St Georges, Canada",QC,Quebec,CA,Canada
+16940,3TN,"Elizabethon, TN",TN,Tennessee,US,United States
+16941,MO5,"Brookfield, MO",MO,Missouri,US,United States
+16942,9TX,"Center, TX",TX,Texas,US,United States
+16947,T82,"Fredericksburg, TX",TX,Texas,US,United States
+16948,MKN,"Comanche, TX",TX,Texas,US,United States
+16951,1VA,"Warrenton, VA",VA,Virginia,US,United States
+16952,MS5,"Cleveland, MS",MS,Mississippi,US,United States
+16953,HTV,"Huntsville, TX",TX,Texas,US,United States
+16954,BNH,"Boston, MA",MA,Massachusetts,US,United States
+16958,XT1,"New Braunfels, TX",TX,Texas,US,United States
+16959,1PA,"Connellsville, PA",PA,Pennsylvania,US,United States
+16961,XT2,"Bridgeport, TX",TX,Texas,US,United States
+16962,XT3,"Granbury, TX",TX,Texas,US,United States
+16964,SD3,"Hot Springs, SD",SD,South Dakota,US,United States
+16965,9NY,"Shelter Island, NY",NY,New York,US,United States
+16966,N7Y,"North Haven, NY",NY,New York,US,United States
+16967,CT8,"Belie Haven, CT",CT,Connecticut,US,United States
+16969,NV7,"Silver Springs, NV",NV,Nevada,US,United States
+16972,SD4,"Sturgis, SD",SD,South Dakota,US,United States
+16973,AZ8,"Green Valley, AZ",AZ,Arizona,US,United States
+16974,MD3,"Churchville, MD",MD,Maryland,US,United States
+16976,MLJ,"Milledgeville, GA",GA,Georgia,US,United States
+16980,2VA,"Williamsburg, VA",VA,Virginia,US,United States
+16982,2AK,"Deerpark, AK",AK,Alaska,US,United States
+16985,A9K,"Healy, AK",AK,Alaska,US,United States
+16986,PHK,"Pahokee, FL",FL,Florida,US,United States
+16987,BKT,"Blackstone, VA",VA,Virginia,US,United States
+16990,1NJ,"Andover, NJ",NJ,New Jersey,US,United States
+16991,3NC,"Hendersonville, NC",NC,North Carolina,US,United States
+16992,3AK,"Tintina, AK",AK,Alaska,US,United States
+16993,MN8,"Walker, MN",MN,Minnesota,US,United States
+16998,TQO,"Tulum, Mexico",Outside of US,Outside of US,MX,Mexico
+16999,PR1,"Cabo Rojo, PR",PR,Puerto Rico,US,United States
+17002,5GA,"Calhoun, GA",GA,Georgia,US,United States
+17007,6GA,"Cornelia, GA",GA,Georgia,US,United States
+17008,2NJ,"Williamstown, NJ",NJ,New Jersey,US,United States
+17009,GGH,"Cianorte, Brazil",Outside of US,Outside of US,BR,Brazil
+17011,6AK,"Newtok, AK",AK,Alaska,US,United States
+17012,3FL,"Wauchula, FL",FL,Florida,US,United States
+17013,TXX,"Fulshear, TX",TX,Texas,US,United States
+17014,SC7,"Allendale, SC",SC,South Carolina,US,United States
+17020,5CA,"Palmdale, CA",CA,California,US,United States
+17021,3NJ,"Camden, NJ",NJ,New Jersey,US,United States
+17023,5NJ,"Newark, NJ",NJ,New Jersey,US,United States
+17024,2PA,"Philadelphia, PA",PA,Pennsylvania,US,United States
+17031,1CT,"Somers, CT",CT,Connecticut,US,United States
+17033,OXD,"Oxford, OH",OH,Ohio,US,United States
+17034,EHU,"Ezhou, China",Outside of US,Outside of US,CN,China
+17035,6CA,"Little River, CA",CA,California,US,United States
+17037,2WA,"Tacoma, WA",WA,Washington,US,United States
+17039,4NC,"Andrews, NC",NC,North Carolina,US,United States
+17040,N8Y,"Harriman, NY",NY,New York,US,United States
+17043,NH6,"Newport, NH",NH,New Hampshire,US,United States
+17044,MD6,"Elkton, MD",MD,Maryland,US,United States
+17045,WI7,"Baraboo, WI",WI,Wisconsin,US,United States
+17047,MDN,"Madison, IN",IN,Indiana,US,United States
+17048,3VA,"West Point, VA",VA,Virginia,US,United States
+17049,5PA,"Allentown, PA",PA,Pennsylvania,US,United States
+17050,OWK,"Norridgewock, ME",ME,Maine,US,United States
+17052,6PA,"Chambersburg, PA",PA,Pennsylvania,US,United States
+17054,MO6,"Lees Summit, MO",MO,Missouri,US,United States
+17058,BXK,"Buckeye, AZ",AZ,Arizona,US,United States
+1138701,M91,"Springfield, TN",TN,Tennessee,US,United States
+10127,AAN,"Al Ain, United Arab Emirates",Outside of US,Outside of US,AE,United Arab Emirates
+10159,ADA,"Adana, Turkey",Outside of US,Outside of US,TR,Turkey
+10162,ADD,"Addis Ababa, Ethiopia",Outside of US,Outside of US,ET,Ethiopia
+10196,AGA,"Agadir, Morocco",Outside of US,Outside of US,MA,Morocco
+10280,AMD,"Ahmedabad, India",Outside of US,Outside of US,IN,India
+10302,ANF,"Antofagasta, Chile",Outside of US,Outside of US,CL,Chile
+10307,ANN,"Annette, AK",AK,Alaska,US,United States
+10345,AR1,"Russellville, AR",AR,Arkansas,US,United States
+10402,ATQ,"Amritsar, India",Outside of US,Outside of US,IN,India
+10415,AUH,"Abu Dhabi, United Arab Emirates",Outside of US,Outside of US,AE,United Arab Emirates
+10433,AVO,"Avon Park, FL",FL,Florida,US,United States
+10460,AYS,"Waycross, GA",GA,Georgia,US,United States
+10542,BEG,"Belgrade, Serbia",Outside of US,Outside of US,RS,Serbia
+10555,BEY,"Beirut, Lebanon",Outside of US,Outside of US,LB,Lebanon
+10642,BKF,"Brooks Lake, AK",AK,Alaska,US,United States
+10645,BKI,"Kota Kinabalu, Malaysia",Outside of US,Outside of US,MY,Malaysia
+10663,BLF,"Princeton/Bluefield, WV",WV,West Virginia,US,United States
+10710,BOD,"Bordeaux, France",Outside of US,Outside of US,FR,France
+10714,BOJ,"Burgas, Bulgaria",Outside of US,Outside of US,BG,Bulgaria
+10740,BRE,"Bremen, Germany",Outside of US,Outside of US,DE,Germany
+10808,BVB,"Boa Vista, Brazil",Outside of US,Outside of US,BR,Brazil
+10824,BWN,"Bandar Seri Begawan, Brunei",Outside of US,Outside of US,BN,Brunei
+10854,BZV,"Brazzaville, Congo (Brazaville)",Outside of US,Outside of US,CG,Congo (Brazaville)
+10897,CBR,"Canberra, Australia",Outside of US,Outside of US,AU,Australia
+10912,CCU,"Kolkata, India",Outside of US,Outside of US,IN,India
+10952,CFB,"Cabo Frio, Brazil",Outside of US,Outside of US,BR,Brazil
+10993,CHR,"Chateauroux, France",Outside of US,Outside of US,FR,France
+11025,CJU,"Jeju, South Korea",Outside of US,Outside of US,KR,South Korea
+11089,CNS,"Cairns, Australia",Outside of US,Outside of US,AU,Australia
+11207,CWI,"Clinton, IA",IA,Iowa,US,United States
+11253,DAC,"Dhaka, Bangladesh",Outside of US,Outside of US,BD,Bangladesh
+11289,DEH,"Decorah, IA",IA,Iowa,US,United States
+11377,DPG,"Dugway, UT",UT,Utah,US,United States
+11460,DYU,"Dushanbe, Tajikistan",Outside of US,Outside of US,TJ,Tajikistan
+11610,EVN,"Yerevan, Armenia",Outside of US,Outside of US,AM,Armenia
+11636,FAO,"Faro, Portugal",Outside of US,Outside of US,PT,Portugal
+11655,FDH,"Friedrichshafen, Germany",Outside of US,Outside of US,DE,Germany
+11715,FNA,"Freetown, Sierra Leone",Outside of US,Outside of US,SL,Sierra Leone
+11774,FSC,"Figari, France",Outside of US,Outside of US,FR,France
+11806,FVJ,"Amberley, Australia",Outside of US,Outside of US,AU,Australia
+11857,GBE,"Gaborone, Botswana",Outside of US,Outside of US,BW,Botswana
+11878,GDT,"Grand Turk, Turks and Caicos Islands",Outside of US,Outside of US,TC,Turks and Caicos Islands
+11974,GPZ,"Grand Rapids, MN",MN,Minnesota,US,United States
+11994,GSH,"Goshen, IN",IN,Indiana,US,United States
+12065,HAK,"Haikou, China",Outside of US,Outside of US,CN,China
+12103,HES,"Hermiston, OR",OR,Oregon,US,United States
+12215,HSP,"Hot Springs, VA",VA,Virginia,US,United States
+12300,IGR,"Iguazu, Argentina",Outside of US,Outside of US,AR,Argentina
+12349,INU,"Nauru, Nauru",Outside of US,Outside of US,NR,Nauru
+12444,JAI,"Jaipur, India",Outside of US,Outside of US,IN,India
+12504,JKH,"Chios, Greece",Outside of US,Outside of US,GR,Greece
+12526,JO3,"Azraq, Jordan",Outside of US,Outside of US,JO,Jordan
+12636,KCH,"Kuching, Malaysia",Outside of US,Outside of US,MY,Malaysia
+12680,KHH,"Kaohsiung, Taiwan",Outside of US,Outside of US,TW,Taiwan
+12733,KMG,"Kunming, China",Outside of US,Outside of US,CN,China
+12852,KWL,"Guilin, China",Outside of US,Outside of US,CN,China
+12911,LCA,"Larnaca, Cyprus",Outside of US,Outside of US,CY,Cyprus
+12952,LFW,"Lome, Togo",Outside of US,Outside of US,TG,Togo
+12959,LGI,"Deadman's Cay, The Bahamas",Outside of US,Outside of US,BS,The Bahamas
+13000,LJU,"Ljubljana, Slovenia",Outside of US,Outside of US,SI,Slovenia
+13063,LRF,"Jacksonville, AR",AR,Arkansas,US,United States
+13129,LWV,"Lawrenceville, IL",IL,Illinois,US,United States
+13235,MDZ,"Mendoza, Argentina",Outside of US,Outside of US,AR,Argentina
+13302,MI3,"Howell, MI",MI,Michigan,US,United States
+13458,MQS,"Mustique, Saint Vincent and the Grenadines",Outside of US,Outside of US,VC,Saint Vincent and the Grenadines
+13595,MZZ,"Marion, IN",IN,Indiana,US,United States
+13660,NGD,"Anegada, British Virgin Islands",Outside of US,Outside of US,VG,British Virgin Islands
+13691,NKC,"Nouakchott, Mauritania",Outside of US,Outside of US,MR,Mauritania
+13757,NTE,"Nantes, France",Outside of US,Outside of US,FR,France
+13792,O85,"Redding, CA",CA,California,US,United States
+13810,OCH,"Nacogdoches, TX",TX,Texas,US,United States
+13850,OKA,"Okinawa, Japan",Outside of US,Outside of US,JP,Japan
+13943,ORY,"Paris, France",Outside of US,Outside of US,FR,France
+13952,OSL,"Oslo, Norway",Outside of US,Outside of US,NO,Norway
+14039,PCD,"Prairie Du Chien, WI",WI,Wisconsin,US,United States
+14064,PEG,"Perugia, Italy",Outside of US,Outside of US,IT,Italy
+14068,PEN,"Bayan Lepas, Malaysia",Outside of US,Outside of US,MY,Malaysia
+14196,POA,"Porto Alegre, Brazil",Outside of US,Outside of US,BR,Brazil
+14216,POZ,"Poznan, Poland",Outside of US,Outside of US,PL,Poland
+14280,PTS,"Pittsburg, KS",KS,Kansas,US,United States
+14408,QPG,"Singapore, Singapore",Outside of US,Outside of US,SG,Singapore
+14451,RAI,"Praia, Cape Verde",Outside of US,Outside of US,CV,Cape Verde
+14496,REC,"Recife, Brazil",Outside of US,Outside of US,BR,Brazil
+14527,RIF,"Richfield, UT",UT,Utah,US,United States
+14535,RIX,"Riga, Latvia",Outside of US,Outside of US,LV,Latvia
+14540,RKE,"Copenhagen, Denmark",Outside of US,Outside of US,DK,Denmark
+14584,ROS,"Rosario, Argentina",Outside of US,Outside of US,AR,Argentina
+14610,RQR,"Harbor Springs, MI",MI,Michigan,US,United States
+14645,RUH,"Riyadh, Saudi Arabia",Outside of US,Outside of US,SA,Saudi Arabia
+14699,SBS,"Steamboat Springs, CO",CO,Colorado,US,United States
+14799,SHA,"Shanghai, China",Outside of US,Outside of US,CN,China
+14803,SHE,"Shenyang, China",Outside of US,Outside of US,CN,China
+14807,SHJ,"Sharjah, United Arab Emirates",Outside of US,Outside of US,AE,United Arab Emirates
+14822,SIK,"Sikeston, MO",MO,Missouri,US,United States
+14904,SMV,"St. Moritz, Switzerland",Outside of US,Outside of US,CH,Switzerland
+14961,SPU,"Split, Croatia",Outside of US,Outside of US,HR,Croatia
+14991,SSA,"Salvador, Brazil",Outside of US,Outside of US,BR,Brazil
+15010,STE,"Stevens Point, WI",WI,Wisconsin,US,United States
+15011,STF,"Starkville, MS",MS,Mississippi,US,United States
+15031,SUB,"Surabaya, Indonesia",Outside of US,Outside of US,ID,Indonesia
+15058,SVO,"Moscow, Russia",Outside of US,Outside of US,RU,Russia
+15265,TMP,"Tampere, Finland",Outside of US,Outside of US,FI,Finland
+15372,TUN,"Tunis, Tunisia",Outside of US,Outside of US,TN,Tunisia
+15658,VWM,"Weed, CA",CA,California,US,United States
+15845,WRO,"Wroclaw, Poland",Outside of US,Outside of US,PL,Poland
+15910,XIY,"Xi'an, China",Outside of US,Outside of US,CN,China
+15915,XMD,"Madison, SD",SD,South Dakota,US,United States
+15968,XJD,"Doha, Qatar",Outside of US,Outside of US,QA,Qatar
+15972,XXO,"Hurricane, UT",UT,Utah,US,United States
+15981,XXX,"Mena, AR",AR,Arkansas,US,United States
+16051,YFC,"Fredericton, Canada",NB,New Brunswick,CA,Canada
+16057,YGE,"Gorge Harbor, Canada",BC,British Columbia,CA,Canada
+16426,ADT,"Ada, OK",OK,Oklahoma,US,United States
+16433,IGS,"Ingolstadt, Germany",Outside of US,Outside of US,DE,Germany
+16507,CJJ,"Cheongju, South Korea",Outside of US,Outside of US,KR,South Korea
+16512,NY8,"Mattituck, NY",NY,New York,US,United States
+16596,KRW,"Turkmenbashi, Turkmenistan",Outside of US,Outside of US,TM,Turkmenistan
+16614,YR1,"Refuge Cove, Canada",BC,British Columbia,CA,Canada
+16619,BC7,"Sonora Island, Canada",BC,British Columbia,CA,Canada
+16646,OXF,"Oxford, United Kingdom",Outside of US,Outside of US,GB,United Kingdom
+16675,OZZ,"Quarzazate, Morocco",Outside of US,Outside of US,MA,Morocco
+16851,NJ9,"Cross Keys, NJ",NJ,New Jersey,US,United States
+16907,3CA,"Garberville, CA",CA,California,US,United States
+16916,6TX,"Leakey, TX",TX,Texas,US,United States
+16920,4CA,"Davis, CA",CA,California,US,United States
+16937,ME9,"Greenville, ME",ME,Maine,US,United States
+16968,NM3,"Moriarty, NM",NM,New Mexico,US,United States
+16971,PED,"Pardubice, Czech Republic",Outside of US,Outside of US,CZ,Czech Republic
+16979,MS6,"Columbia, MS",MS,Mississippi,US,United States
+16983,2WK,"Odessa, WA",WA,Washington,US,United States
+17004,OR5,"Condon, OR",OR,Oregon,US,United States
+17051,5FL,"Apalachicola, FL",FL,Florida,US,United States
